@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,367 | 🐛 26 | 📅 2026-08-01
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,367 | 🐛 26 | 📅 2026-08-01
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,367 | 🐛 26 | 📅 2026-08-01
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,367 | 🐛 26 | 📅 2026-08-01
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,367 | 🐛 26 | 📅 2026-08-01
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,371 | 🐛 27 | 📅 2026-08-01
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,371 | 🐛 27 | 📅 2026-08-01
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,371 | 🐛 27 | 📅 2026-08-01
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,371 | 🐛 27 | 📅 2026-08-01
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,371 | 🐛 27 | 📅 2026-08-01
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -966,7 +966,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,254 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,255 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1002,7 +1002,7 @@
 |                                   [Fitbit](https://dev.fitbit.com/)                                   | Fitbit Information                                                                             |     `OAuth`     |  Yes  | Unknown |
 |                    [Football (Soccer) Videos](https://www.scorebat.com/video-api/)                    | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more    |        No       |  Yes  |   Yes   |
 |                      [Football Prediction](https://boggio-analytics.com/fp-api/)                      | Predictions for upcoming football matches, odds, results and stats                             | `X-Mashape-Key` |  Yes  | Unknown |
-| [Golf-Data](https://github.com/Jacobbrewer1/golf-data-docs) ⭐ 13 \| 🐛 5 \| 🌐 Shell \| 📅 2026-06-22 | Golf data API with golf course, club and hole information                                      |        No       |  Yes  |    No   |
+| [Golf-Data](https://github.com/Jacobbrewer1/golf-data-docs) ⭐ 14 \| 🐛 5 \| 🌐 Shell \| 📅 2026-06-22 | Golf data API with golf course, club and hole information                                      |        No       |  Yes  |    No   |
 |                            [JCDecaux Bike](https://developer.jcdecaux.com/)                           | JCDecaux's self-service bicycles                                                               |     `apiKey`    |  Yes  | Unknown |
 |                 [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description)                 | Current and historical NBA Statistics                                                          |        No       |  Yes  | Unknown |
 |                       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)                       | NHL historical data and statistics                                                             |        No       |  Yes  | Unknown |
