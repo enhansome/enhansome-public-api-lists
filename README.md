@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,390 | 🐛 27 | 📅 2026-08-01
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,390 | 🐛 27 | 📅 2026-08-01
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,390 | 🐛 27 | 📅 2026-08-01
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,390 | 🐛 27 | 📅 2026-08-01
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,390 | 🐛 27 | 📅 2026-08-01
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,400 | 🐛 30 | 📅 2026-08-01
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,400 | 🐛 30 | 📅 2026-08-01
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,400 | 🐛 30 | 📅 2026-08-01
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,400 | 🐛 30 | 📅 2026-08-01
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,400 | 🐛 30 | 📅 2026-08-01
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -75,7 +75,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,323 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-03-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,321 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-03-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -105,7 +105,7 @@
 |                             [Dribbble](http://developer.dribbble.com/v2/)                            | Design                                                                        |  `OAuth` |   No  | Unknown |
 |                      [Europeana](https://pro.europeana.eu/resources/apis/search)                     | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                                  [Freepik](https://freepik.com/api)                                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
-| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 419 \| 🐛 19 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 420 \| 🐛 19 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
 |                            [Iconfinder](https://developer.iconfinder.com)                            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |                      [Metropolitan Museum of Art](https://metmuseum.github.io/)                      | Art                                                                           |    No    |  Yes  | Unknown |
 |                       [Noun Project](http://api.thenounproject.com/index.html)                       | Icons                                                                         |  `OAuth` |   No  | Unknown |
@@ -352,7 +352,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,678 \| 🐛 11 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,679 \| 🐛 11 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -556,7 +556,7 @@
 |                                  [Hearthstone](http://hearthstoneapi.com/)                                 | Hearthstone Cards Information                                                                                                                                | `X-Mashape-Key` |  Yes  | Unknown |
 |                                     [Hypixel](https://api.hypixel.net/)                                    | Hypixel player stats                                                                                                                                         |     `apiKey`    |  Yes  | Unknown |
 |                                  [JokeAPI](https://sv443.net/jokeapi/v2/)                                  | Programming, Miscellaneous and Dark Jokes                                                                                                                    |        No       |  Yes  |   Yes   |
-|  [Jokes](https://github.com/15Dkatz/official_joke_api) ⭐ 1,018 \| 🐛 25 \| 🌐 JavaScript \| 📅 2024-12-06  | Programming and general jokes                                                                                                                                |        No       |  Yes  | Unknown |
+|  [Jokes](https://github.com/15Dkatz/official_joke_api) ⭐ 1,019 \| 🐛 25 \| 🌐 JavaScript \| 📅 2024-12-06  | Programming and general jokes                                                                                                                                |        No       |  Yes  | Unknown |
 |                                  [Jokes One](https://jokes.one/api/joke/)                                  | Joke of the day and large category of jokes accessible via REST API                                                                                          |     `apiKey`    |  Yes  |   Yes   |
 |                                  [LotteryData.io](https://lotterydata.io/)                                 | Powerball, MegaMillions, and more results (live + historical) games                                                                                          |     `apiKey`    |  Yes  |   Yes   |
 |                             [Magic The Gathering](http://magicthegathering.io/)                            | Magic The Gathering Game Information                                                                                                                         |        No       |   No  | Unknown |
@@ -822,7 +822,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,642 \| 🐛 44 \| 🌐 Python \| 📅 2026-08-05 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,644 \| 🐛 44 \| 🌐 Python \| 📅 2026-08-05 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -866,7 +866,7 @@
 |                  [Medium](https://github.com/Medium/medium-api-docs) ⚠️ Archived                 | Community of readers and writers offering unique perspectives on ideas                                             |  `OAuth` |  Yes  | Unknown |
 |         [Meme](https://github.com/D3vd/Meme_Api) ⭐ 881 \| 🐛 32 \| 🌐 Go \| 📅 2023-05-19        | JSON API for a random meme scraped from reddit                                                                     |    No    |  Yes  | Unknown |
 |                           [Memesio](https://memesio.com/developers/api)                          | Meme creation API with templates and hosted share links                                                            |    No    |  Yes  |    No   |
-| [NaMoMemes](https://github.com/theIYD/NaMoMemes) ⭐ 28 \| 🐛 11 \| 🌐 JavaScript \| 📅 2022-12-11 | Memes on Narendra Modi                                                                                             |    No    |  Yes  | Unknown |
+| [NaMoMemes](https://github.com/theIYD/NaMoMemes) ⭐ 29 \| 🐛 11 \| 🌐 JavaScript \| 📅 2022-12-11 | Memes on Narendra Modi                                                                                             |    No    |  Yes  | Unknown |
 |                  [Programming Quotes](https://programming-quotesapi.vercel.app/)                 | An api which generates quotes from programmers                                                                     |    No    |  Yes  |   Yes   |
 |                         [Quoterism](https://www.quoterism.com/developer)                         | Inspirational Quotes                                                                                               |    No    |  Yes  | Unknown |
 |                        [Quotes on Design](https://quotesondesign.com/api/)                       | Inspirational Quotes                                                                                               |    No    |  Yes  | Unknown |
@@ -966,7 +966,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,257 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,256 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1146,7 +1146,7 @@
 | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                [An API of Ice And Fire](https://anapioficeandfire.com/)                                | Game Of Thrones API                                                                                                   |    No    |  Yes  | Unknown |
 |                                    [Bob's Burgers API](https://bobsburgersapi.com/)                                    | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show      |    No    |  Yes  |   Yes   |
-| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 456 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-03-16 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
+| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 456 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-08-15 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
 |                             [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                            | TV programme of Czech TV                                                                                              |    No    |   No  | Unknown |
 |               [Dune](https://github.com/ywalia01/dune-api) ⭐ 70 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-07-10              | Dune API                                                                                                              |    No    |  Yes  | Unknown |
 |                                     [Open Movie Database](http://www.omdbapi.com/)                                     | Movie information                                                                                                     | `apiKey` |  Yes  | Unknown |
@@ -1190,4 +1190,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
