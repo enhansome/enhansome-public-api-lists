@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,520 | 🐛 36 | 📅 2026-08-01
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,520 | 🐛 36 | 📅 2026-08-01
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,520 | 🐛 36 | 📅 2026-08-01
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,520 | 🐛 36 | 📅 2026-08-01
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,520 | 🐛 36 | 📅 2026-08-01
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -105,7 +105,7 @@
 |                             [Dribbble](http://developer.dribbble.com/v2/)                            | Design                                                                        |  `OAuth` |   No  | Unknown |
 |                      [Europeana](https://pro.europeana.eu/resources/apis/search)                     | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                                  [Freepik](https://freepik.com/api)                                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
-| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 421 \| 🐛 19 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 420 \| 🐛 19 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
 |                            [Iconfinder](https://developer.iconfinder.com)                            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |                      [Metropolitan Museum of Art](https://metmuseum.github.io/)                      | Art                                                                           |    No    |  Yes  | Unknown |
 |                       [Noun Project](http://api.thenounproject.com/index.html)                       | Icons                                                                         |  `OAuth` |   No  | Unknown |
@@ -966,7 +966,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,256 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,257 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
