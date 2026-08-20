@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,523 | 🐛 37 | 📅 2026-08-01
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -62,7 +62,7 @@
 |                                    [Dogs](https://dog.ceo/dog-api/)                                   | Based on the Stanford Dogs Dataset         |    No    |  Yes  |   Yes   |
 |                                     [HTTP Dogs](https://http.dog/)                                    | Dogs for every HTTP status code            |    No    |  Yes  | Unknown |
 |                                      [HTTPCat](https://http.cat/)                                     | Cat for every HTTP Status                  |    No    |  Yes  | Unknown |
-| [Movebank](https://github.com/movebank/movebank-api-doc) ⭐ 190 \| 🐛 14 \| 🌐 Python \| 📅 2026-01-02 | Movement and Migration data of animals     |    No    |  Yes  | Unknown |
+| [Movebank](https://github.com/movebank/movebank-api-doc) ⭐ 191 \| 🐛 14 \| 🌐 Python \| 📅 2026-01-02 | Movement and Migration data of animals     |    No    |  Yes  | Unknown |
 |                               [Open Dog Registry](https://registry.dog/)                              | Adoption                                   |  `OAuth` |  Yes  |   Yes   |
 |                       [Petfinder](https://www.petfinder.com/developers/v2/docs/)                      | Information and images of dog breeds       |    No    |  Yes  |   Yes   |
 |                               [RandomDog](https://random.dog/woof.json)                               | Random pictures of dogs                    |    No    |  Yes  |   Yes   |
@@ -205,7 +205,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,250 \| 🐛 5 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,249 \| 🐛 5 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
 |                                      [Bitquery](https://bitquery.io/)                                     | Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool | `apiKey` |  Yes  | Unknown |
@@ -635,7 +635,7 @@
 |                                                      [MapAtlas](https://mapatlas.eu/)                                                      | Geocoding, routing, map tiles, directions, and route optimization APIs. EU-hosted                                  |     `apiKey`    |  Yes  |   Yes   |
 |                                                       [Mapbase](https://mapbase.dev/)                                                      | Location registry API for official locations, zones, hierarchy, and geometry                                       |     `apiKey`    |  Yes  |   Yes   |
 |                                                [Mapbox](https://www.mapbox.com/developers/)                                                | Create/customize beautiful digital maps                                                                            |     `apiKey`    |  Yes  | Unknown |
-|                         [Mexico](https://github.com/IcaliaLabs/sepomex) ⭐ 102 \| 🐛 14 \| 🌐 Ruby \| 📅 2026-08-17                         | Mexico RESTful zip codes API                                                                                       |        No       |  Yes  | Unknown |
+|                         [Mexico](https://github.com/IcaliaLabs/sepomex) ⭐ 103 \| 🐛 14 \| 🌐 Ruby \| 📅 2026-08-17                         | Mexico RESTful zip codes API                                                                                       |        No       |  Yes  | Unknown |
 |                                                    [OpenCage](https://opencagedata.com)                                                    | Forward and reverse geocoding using open data                                                                      |     `apiKey`    |  Yes  |   Yes   |
 |                                                 [OpenPLZ API](https://www.openplzapi.org/)                                                 | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API |        No       |  Yes  |   Yes   |
 |                                           [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)                                          | Navigation, geolocation and geographical data                                                                      |     `OAuth`     |   No  | Unknown |
@@ -822,7 +822,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,645 \| 🐛 46 \| 🌐 Python \| 📅 2026-08-05 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,646 \| 🐛 46 \| 🌐 Python \| 📅 2026-08-05 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -966,7 +966,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,257 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,259 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1190,4 +1190,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
