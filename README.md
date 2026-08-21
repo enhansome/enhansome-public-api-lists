@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,541 | 🐛 38 | 📅 2026-08-01
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,557 | 🐛 39 | 📅 2026-08-01
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,557 | 🐛 39 | 📅 2026-08-01
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,557 | 🐛 39 | 📅 2026-08-01
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,557 | 🐛 39 | 📅 2026-08-01
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,557 | 🐛 39 | 📅 2026-08-01
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -333,7 +333,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 249 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-07-30 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 248 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-07-30 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -352,7 +352,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,683 \| 🐛 11 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,684 \| 🐛 11 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -544,7 +544,7 @@
 |                                       [crob.at](https://crob.at/api)                                       | Pokémon team sharing and type chart data                                                                                                                     |        No       |  Yes  |   Yes   |
 |                             [Cross Universe](https://crossuniverse.net/apiDocs)                            | Cross Universe Card Data                                                                                                                                     |        No       |  Yes  |   Yes   |
 |                                 [Deck of Cards](http://deckofcardsapi.com/)                                | Deck of Cards                                                                                                                                                |        No       |   No  | Unknown |
-|           [Destiny The Game](https://github.com/Bungie-net/api) ⭐ 1,302 \| 🐛 69 \| 📅 2026-01-22          | Bungie Platform API                                                                                                                                          |     `apiKey`    |  Yes  | Unknown |
+|           [Destiny The Game](https://github.com/Bungie-net/api) ⭐ 1,302 \| 🐛 67 \| 📅 2026-01-22          | Bungie Platform API                                                                                                                                          |     `apiKey`    |  Yes  | Unknown |
 |                                    [Dota 2](https://docs.opendota.com/)                                    | Provides information about Player stats , Match stats, Rankings for Dota 2                                                                                   |        No       |  Yes  | Unknown |
 |                               [Dungeons and Dragons](http://www.dnd5eapi.co/)                              | Reference for 5th edition spells, classes, monsters, and more                                                                                                |        No       |   No  |    No   |
 |                                 [Eight Ball API](https://eightballapi.com/)                                | Fortune-telling API with random, sentiment-biased, and multi-language responses                                                                              |        No       |  Yes  |   Yes   |
@@ -793,7 +793,7 @@
 |                     [Associated Press](https://developer.ap.org/)                     | Search for news and metadata from Associated Press                                          | `apiKey` |  Yes  | Unknown |
 |          [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)          | Provides access to millions of pages of historic US newspapers from the Library of Congress |    No    |   No  | Unknown |
 |                       [Currents](https://currentsapi.services/)                       | Latest news published in various news sources, blogs and forums                             | `apiKey` |  Yes  |   Yes   |
-|   [Feedbin](https://github.com/feedbin/feedbin-api) ⭐ 405 \| 🐛 20 \| 📅 2026-02-10   | RSS reader                                                                                  |  `OAuth` |  Yes  | Unknown |
+|   [Feedbin](https://github.com/feedbin/feedbin-api) ⭐ 406 \| 🐛 20 \| 📅 2026-02-10   | RSS reader                                                                                  |  `OAuth` |  Yes  | Unknown |
 |                            [Finlight](https://finlight.me)                            | Realtime financial news with sentiment and article content                                  | `apiKey` |  Yes  |   Yes   |
 |                    [New York Times](https://developer.nytimes.com/)                   | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
 |                              [News](https://newsapi.org/)                             | Headlines currently published on a range of news sources and blogs                          | `apiKey` |  Yes  | Unknown |
@@ -966,7 +966,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,259 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,262 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1190,4 +1190,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
