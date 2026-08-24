@@ -1,7 +1,873 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Movebank",
+              "description": "Movement and Migration data of animals No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45835251,
+                "language": "Python",
+                "last_commit": "2026-01-02T14:12:14Z",
+                "owner": "movebank",
+                "repo": "movebank-api-doc",
+                "stars": 191
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Animals"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AniList",
+              "description": "Anime discovery & tracking Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95210824,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T00:20:59Z",
+                "owner": "AniList",
+                "repo": "docs",
+                "stars": 1321
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Anime"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Harvard Art Museums",
+              "description": "Art No Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28979124,
+                "language": null,
+                "last_commit": "2026-08-03T14:08:04Z",
+                "owner": "harvardartmuseums",
+                "repo": "api-docs",
+                "stars": 421
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Art & Design"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Harry Potter API",
+              "description": "API to get data from Harry Potter books, movies, characters and spells No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731420531,
+                "language": "TypeScript",
+                "last_commit": "2026-07-18T17:37:22Z",
+                "owner": "fedeperin",
+                "repo": "potterapi",
+                "stars": 124
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Non-Working Days ICS",
+              "description": "Database of ICS files for non working days No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49778042,
+                "language": "JavaScript",
+                "last_commit": "2020-04-25T15:40:05Z",
+                "owner": "gadael",
+                "repo": "icsdb",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Russian Calendar",
+              "description": "Check if a date is a Russian holiday or not No Yes No",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135658177,
+                "language": "Python",
+                "last_commit": "2021-03-31T13:02:43Z",
+                "owner": "egno",
+                "repo": "work-calendar",
+                "stars": 29
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Calendar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Binance",
+              "description": "Exchange for Trading Cryptocurrencies based in China Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112992348,
+                "language": null,
+                "last_commit": "2024-06-19T16:40:38Z",
+                "owner": "binance-exchange",
+                "repo": "binance-official-api-docs",
+                "stars": 4249
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Cryptocurrency"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gitter",
+              "description": "Chat for GitHub Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18333786,
+                "language": null,
+                "last_commit": "2019-01-07T22:51:04Z",
+                "owner": "gitterHQ",
+                "repo": "docs",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jsDelivr",
+              "description": "Package info and download stats on jsDelivr CDN No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97043763,
+                "language": "JavaScript",
+                "last_commit": "2026-07-30T15:18:04Z",
+                "owner": "jsdelivr",
+                "repo": "data.jsdelivr.com",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Let's Validate",
+              "description": "Uncovers the technologies used on websites and URL to thumbnail No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87084179,
+                "language": null,
+                "last_commit": "2020-10-01T07:19:15Z",
+                "owner": "letsvalidate",
+                "repo": "api",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "License-API",
+              "description": "Unofficial REST API for choosealicense.com No Yes No",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136023157,
+                "language": "Python",
+                "last_commit": "2022-12-08T02:08:09Z",
+                "owner": "cmccandless",
+                "repo": "license-api",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenUnfurl",
+              "description": "No-signup link unfurl API returning Open Graph, Twitter Card and oEmbed metadata No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1241109099,
+                "language": "JavaScript",
+                "last_commit": "2026-05-17T01:45:13Z",
+                "owner": "SolvoHQ",
+                "repo": "openunfurl",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Public APIs",
+              "description": "A collective list of free JSON APIs for use in web development No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117782659,
+                "language": "Go",
+                "last_commit": "2022-12-08T06:28:39Z",
+                "owner": "davemachado",
+                "repo": "public-api",
+                "stars": 1686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shadify",
+              "description": "Service for generating data and executing logic to create various games and puzzles No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 507349691,
+                "language": "Go",
+                "last_commit": "2026-05-30T10:50:40Z",
+                "owner": "cheatsnake",
+                "repo": "shadify",
+                "stars": 42
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Indian Bank Data API",
+              "description": "All Banks IFSC Code data,Search by IFSc or other details No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349454242,
+                "language": null,
+                "last_commit": "2025-07-22T16:25:42Z",
+                "owner": "kaustubhk24",
+                "repo": "Indian-Banks-Data",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeepRule",
+              "description": "Investment principles and quotes from Buffett, Munger & more No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189329392,
+                "language": "HTML",
+                "last_commit": "2026-03-23T14:45:31Z",
+                "owner": "henu-wang",
+                "repo": "keeprule-api",
+                "stars": 4
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Finance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PunkAPI",
+              "description": "BrewDog's DIY Dog beer catalogue as an API No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900943508,
+                "language": "Python",
+                "last_commit": "2026-06-26T19:14:15Z",
+                "owner": "alxiw",
+                "repo": "punkapi",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TacoFancy",
+              "description": "Community-driven taco database No No Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14133506,
+                "language": "Python",
+                "last_commit": "2025-08-19T12:59:04Z",
+                "owner": "evz",
+                "repo": "tacofancy-api",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Report of the Week",
+              "description": "Food & Drink Reviews No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55330319,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T17:19:47Z",
+                "owner": "andyklimczak",
+                "repo": "TheReportOfTheWeek-API",
+                "stars": 59
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Food & Drink"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blue Archive",
+              "description": "Blue Archive Game data API Characters No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555906631,
+                "language": "TypeScript",
+                "last_commit": "2026-05-04T04:48:13Z",
+                "owner": "arufars",
+                "repo": "api-blue-archive",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Destiny The Game",
+              "description": "Bungie Platform API Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100769259,
+                "language": null,
+                "last_commit": "2026-01-22T15:05:15Z",
+                "owner": "Bungie-net",
+                "repo": "api",
+                "stars": 1302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jokes",
+              "description": "Programming and general jokes No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86027654,
+                "language": "JavaScript",
+                "last_commit": "2024-12-06T06:22:10Z",
+                "owner": "15Dkatz",
+                "repo": "official_joke_api",
+                "stars": 1021
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Games & Comics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "administrative-divisons-db",
+              "description": "Get all administrative divisions of a country No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335397351,
+                "language": "JavaScript",
+                "last_commit": "2022-10-19T09:05:08Z",
+                "owner": "kamikazechaser",
+                "repo": "administrative-divisions-db",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mexico",
+              "description": "Mexico RESTful zip codes API No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39113829,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T02:32:42Z",
+                "owner": "IcaliaLabs",
+                "repo": "sepomex",
+                "stars": 103
+              }
+            }
+          ],
+          "description": "| ZipCodeAPI | US zip code distance, radius and location API | | Yes | Unknown | | Zippopotam | Get information about place such as country, city, state, etc | No | No | Unknown | | Ziptastic | Get the country, state, and city of any US zip-code | No | Yes | Unknown |\n⬆ Back to Index",
+          "node_type": "group",
+          "title": "Geocoding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Skills",
+              "description": "Job titles, skills and related jobs data No No Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47280089,
+                "language": "Python",
+                "last_commit": "2018-07-24T16:40:52Z",
+                "owner": "workforce-data-initiative",
+                "repo": "skills-api",
+                "stars": 213
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Jobs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Feedbin",
+              "description": "RSS reader Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7986664,
+                "language": null,
+                "last_commit": "2026-02-10T06:30:03Z",
+                "owner": "feedbin",
+                "repo": "feedbin-api",
+                "stars": 406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Old Reader",
+              "description": "RSS reader Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10734931,
+                "language": null,
+                "last_commit": "2016-10-04T13:27:51Z",
+                "owner": "theoldreader",
+                "repo": "api",
+                "stars": 201
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "News"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Universities List",
+              "description": "University names, countries and domains No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25596429,
+                "language": "Python",
+                "last_commit": "2026-08-05T11:15:21Z",
+                "owner": "Hipo",
+                "repo": "university-domains-list",
+                "stars": 1646
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Open Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Medium",
+              "description": "Community of readers and writers offering unique perspectives on ideas Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43396022,
+                "language": null,
+                "last_commit": "2023-03-02T22:00:44Z",
+                "owner": "Medium",
+                "repo": "medium-api-docs",
+                "stars": 2332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meme",
+              "description": "JSON API for a random meme scraped from reddit No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156545313,
+                "language": "Go",
+                "last_commit": "2023-05-19T07:47:23Z",
+                "owner": "D3vd",
+                "repo": "Meme_Api",
+                "stars": 881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NaMoMemes",
+              "description": "Memes on Narendra Modi No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208488379,
+                "language": "JavaScript",
+                "last_commit": "2022-12-11T10:00:17Z",
+                "owner": "theIYD",
+                "repo": "NaMoMemes",
+                "stars": 29
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Personality"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iDigBio",
+              "description": "Access millions of museum specimens from organizations around the world No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25606800,
+                "language": "JavaScript",
+                "last_commit": "2026-01-26T16:37:36Z",
+                "owner": "iDigBio",
+                "repo": "idigbio-search-api",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpaceX",
+              "description": "Company, vehicle, launchpad and launch data No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94811188,
+                "language": "JavaScript",
+                "last_commit": "2024-08-17T01:38:13Z",
+                "owner": "r-spacex",
+                "repo": "SpaceX-API",
+                "stars": 10915
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Science & Math"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HackerNews",
+              "description": "Social news for CS and entrepreneurship No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24732732,
+                "language": null,
+                "last_commit": "2025-01-01T07:55:30Z",
+                "owner": "HackerNews",
+                "repo": "API",
+                "stars": 13271
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Social"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cartola FC",
+              "description": "The Cartola FC API serves to check the partial points of your team No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 36243722,
+                "language": "JavaScript",
+                "last_commit": "2018-02-01T12:00:32Z",
+                "owner": "giovanigenerali",
+                "repo": "cartrolandofc",
+                "stars": 279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "F1 Data API",
+              "description": "Formula 1 data API that delivers data from the F1 Archive dating back to 1950 No Yes No",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849474711,
+                "language": "Go",
+                "last_commit": "2025-03-10T17:22:54Z",
+                "owner": "Jacobbrewer1",
+                "repo": "f1-data",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golf-Data",
+              "description": "Golf data API with golf course, club and hole information No Yes No",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 845612904,
+                "language": "Shell",
+                "last_commit": "2026-06-22T08:33:03Z",
+                "owner": "Jacobbrewer1",
+                "repo": "golf-data-docs",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Sports & Fitness"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Short Id",
+              "description": "Generate unique short Ids No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954133589,
+                "language": "C#",
+                "last_commit": "2025-05-17T15:41:44Z",
+                "owner": "aguedo",
+                "repo": "idgen",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UI Names",
+              "description": "Generate random fake names No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16295768,
+                "language": "PHP",
+                "last_commit": "2023-11-22T03:24:48Z",
+                "owner": "thm",
+                "repo": "uinames",
+                "stars": 743
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Test Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yomi",
+              "description": "Japanese tokenizer and morphological analysis web API No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591383504,
+                "language": "Python",
+                "last_commit": "2023-09-01T09:05:37Z",
+                "owner": "ookii-tsuki",
+                "repo": "yomi",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Text Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArcNautical Vessel Check",
+              "description": "Vessel sanctions screening, ownership transparency scoring, and vetting intelligence No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188915236,
+                "language": null,
+                "last_commit": "2026-03-22T18:51:21Z",
+                "owner": "SaltyTaro",
+                "repo": "vessel-check-api",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Community Transit",
+              "description": "Transitland API No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25056419,
+                "language": "Ruby",
+                "last_commit": "2022-02-18T06:19:14Z",
+                "owner": "transitland",
+                "repo": "transitland-datastore",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OVAPI Netherlands Transport",
+              "description": "OVAPI, country-wide public transport No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4511935,
+                "language": "Python",
+                "last_commit": "2014-01-22T10:16:28Z",
+                "owner": "koch-t",
+                "repo": "KV78Turbo-OVAPI",
+                "stars": 100
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Transportation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Breaking Bad Quotes",
+              "description": "Some Breaking Bad quotes No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82846343,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T13:02:27Z",
+                "owner": "shevabam",
+                "repo": "breaking-bad-quotes",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dune",
+              "description": "Dune API No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356311506,
+                "language": "JavaScript",
+                "last_commit": "2022-07-10T10:09:17Z",
+                "owner": "ywalia01",
+                "repo": "dune-api",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ron Swanson Quotes",
+              "description": "Television No Yes Unknown",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 29270764,
+                "language": "TypeScript",
+                "last_commit": "2026-01-19T10:23:23Z",
+                "owner": "jamesseanwright",
+                "repo": "ron-swanson-quotes",
+                "stars": 311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "South Park Quotes",
+              "description": "A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay No Yes Yes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 659984603,
+                "language": "JavaScript",
+                "last_commit": "2024-03-04T03:49:47Z",
+                "owner": "Thatskat",
+                "repo": "southpark-quotes-api",
+                "stars": 15
+              }
+            }
+          ],
+          "description": "⬆ Back to Index",
+          "node_type": "group",
+          "title": "Video"
+        }
+      ],
+      "title": "Index"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T16:13:08.993Z",
+    "last_updated": "2026-08-24T13:52:13.118Z",
     "original_repository": "public-api-lists/public-api-lists",
     "original_repository_id": 231972503,
     "original_repository_sha": "1026cf8fb5a6824c308285d7f449ea795f357831",
