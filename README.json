@@ -380,7 +380,7 @@
                 "last_commit": "2026-01-22T15:05:15Z",
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1302
+                "stars": 1303
               }
             },
             {
@@ -624,7 +624,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13271
+                "stars": 13272
               }
             }
           ],
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:13.118Z",
+    "last_updated": "2026-08-24T16:23:23.860Z",
     "original_repository": "public-api-lists/public-api-lists",
     "original_repository_id": 231972503,
     "original_repository_sha": "1026cf8fb5a6824c308285d7f449ea795f357831",
