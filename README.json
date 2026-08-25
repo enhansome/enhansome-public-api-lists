@@ -30,7 +30,7 @@
             {
               "node_type": "item",
               "title": "AniList",
-              "description": "Anime discovery & tracking Yes Unknown",
+              "description": "Anime discovery & tracking  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,7 +52,7 @@
             {
               "node_type": "item",
               "title": "Harvard Art Museums",
-              "description": "Art No Unknown",
+              "description": "Art  No Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
             {
               "node_type": "item",
               "title": "Binance",
-              "description": "Exchange for Trading Cryptocurrencies based in China Yes Unknown",
+              "description": "Exchange for Trading Cryptocurrencies based in China  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,7 +142,7 @@
                 "last_commit": "2024-06-19T16:40:38Z",
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4249
+                "stars": 4250
               }
             }
           ],
@@ -155,7 +155,7 @@
             {
               "node_type": "item",
               "title": "Gitter",
-              "description": "Chat for GitHub Yes Unknown",
+              "description": "Chat for GitHub  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -194,7 +194,7 @@
                 "last_commit": "2020-10-01T07:19:15Z",
                 "owner": "letsvalidate",
                 "repo": "api",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2022-12-08T06:28:39Z",
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1686
+                "stars": 1687
               }
             },
             {
@@ -371,7 +371,7 @@
             {
               "node_type": "item",
               "title": "Destiny The Game",
-              "description": "Bungie Platform API Yes Unknown",
+              "description": "Bungie Platform API  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -395,7 +395,7 @@
                 "last_commit": "2024-12-06T06:22:10Z",
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1021
+                "stars": 1022
               }
             }
           ],
@@ -467,7 +467,7 @@
             {
               "node_type": "item",
               "title": "Feedbin",
-              "description": "RSS reader Yes Unknown",
+              "description": "RSS reader  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,7 +482,7 @@
             {
               "node_type": "item",
               "title": "The Old Reader",
-              "description": "RSS reader Yes Unknown",
+              "description": "RSS reader  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
                 "last_commit": "2016-10-04T13:27:51Z",
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 201
+                "stars": 202
               }
             }
           ],
@@ -510,7 +510,7 @@
                 "archived": false,
                 "id": 25596429,
                 "language": "Python",
-                "last_commit": "2026-08-05T11:15:21Z",
+                "last_commit": "2026-08-24T19:10:52Z",
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1646
@@ -526,7 +526,7 @@
             {
               "node_type": "item",
               "title": "Medium",
-              "description": "Community of readers and writers offering unique perspectives on ideas Yes Unknown",
+              "description": "Community of readers and writers offering unique perspectives on ideas  Yes Unknown",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -602,7 +602,7 @@
                 "last_commit": "2024-08-17T01:38:13Z",
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10915
+                "stars": 10916
               }
             }
           ],
@@ -624,7 +624,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13272
+                "stars": 13273
               }
             }
           ],
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:23:23.860Z",
+    "last_updated": "2026-08-25T05:44:14.187Z",
     "original_repository": "public-api-lists/public-api-lists",
     "original_repository_id": 231972503,
     "original_repository_sha": "1026cf8fb5a6824c308285d7f449ea795f357831",
