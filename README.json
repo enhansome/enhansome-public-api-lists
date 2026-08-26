@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-02T14:12:14Z",
                 "owner": "movebank",
                 "repo": "movebank-api-doc",
-                "stars": 191
+                "stars": 192
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-03T14:08:04Z",
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 421
+                "stars": 422
               }
             }
           ],
@@ -432,7 +432,7 @@
                 "last_commit": "2026-08-24T02:32:42Z",
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
-                "stars": 104
+                "stars": 105
               }
             }
           ],
@@ -513,7 +513,7 @@
                 "last_commit": "2026-08-24T19:10:52Z",
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1646
+                "stars": 1649
               }
             }
           ],
@@ -602,7 +602,7 @@
                 "last_commit": "2024-08-17T01:38:13Z",
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10916
+                "stars": 10913
               }
             }
           ],
@@ -624,7 +624,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13274
+                "stars": 13275
               }
             }
           ],
@@ -809,7 +809,7 @@
                 "last_commit": "2026-08-15T13:02:27Z",
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:23:44.514Z",
+    "last_updated": "2026-08-26T16:41:09.907Z",
     "original_repository": "public-api-lists/public-api-lists",
     "original_repository_id": 231972503,
     "original_repository_sha": "1026cf8fb5a6824c308285d7f449ea795f357831",
