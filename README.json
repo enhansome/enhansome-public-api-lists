@@ -179,7 +179,7 @@
                 "last_commit": "2026-07-30T15:18:04Z",
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 248
+                "stars": 247
               }
             },
             {
@@ -343,7 +343,7 @@
                 "last_commit": "2026-08-23T17:19:47Z",
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 59
+                "stars": 60
               }
             }
           ],
@@ -602,7 +602,7 @@
                 "last_commit": "2024-08-17T01:38:13Z",
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10913
+                "stars": 10914
               }
             }
           ],
@@ -624,7 +624,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13275
+                "stars": 13278
               }
             }
           ],
@@ -809,7 +809,7 @@
                 "last_commit": "2026-08-15T13:02:27Z",
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 458
+                "stars": 459
               }
             },
             {
@@ -867,9 +867,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:41:09.907Z",
-    "original_repository": "public-api-lists/public-api-lists",
-    "original_repository_id": 231972503,
+    "last_updated": "2026-08-27T11:58:36.132Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 231972503,
+      "language": null,
+      "last_commit": "2026-08-01T11:25:46Z",
+      "owner": "public-api-lists",
+      "repo": "public-api-lists",
+      "stars": 15637
+    },
     "original_repository_sha": "1026cf8fb5a6824c308285d7f449ea795f357831",
     "enhanced_repository": "enhansome/enhansome-public-api-lists",
     "enhanced_repository_description": null,
