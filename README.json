@@ -239,7 +239,7 @@
                 "last_commit": "2022-12-08T06:28:39Z",
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1686
+                "stars": 1687
               }
             },
             {
@@ -365,7 +365,7 @@
                 "last_commit": "2026-05-04T04:48:13Z",
                 "owner": "arufars",
                 "repo": "api-blue-archive",
-                "stars": 43
+                "stars": 44
               }
             },
             {
@@ -513,7 +513,7 @@
                 "last_commit": "2026-08-24T19:10:52Z",
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1649
+                "stars": 1650
               }
             }
           ],
@@ -550,7 +550,7 @@
                 "last_commit": "2023-05-19T07:47:23Z",
                 "owner": "D3vd",
                 "repo": "Meme_Api",
-                "stars": 881
+                "stars": 880
               }
             },
             {
@@ -602,7 +602,7 @@
                 "last_commit": "2024-08-17T01:38:13Z",
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10914
+                "stars": 10913
               }
             }
           ],
@@ -624,7 +624,7 @@
                 "last_commit": "2025-01-01T07:55:30Z",
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13278
+                "stars": 13280
               }
             }
           ],
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:36.132Z",
+    "last_updated": "2026-08-28T00:40:03.599Z",
     "original_repository_info": {
       "archived": false,
       "id": 231972503,
@@ -875,7 +875,7 @@
       "last_commit": "2026-08-01T11:25:46Z",
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15637
+      "stars": 15646
     },
     "original_repository_sha": "1026cf8fb5a6824c308285d7f449ea795f357831",
     "enhanced_repository": "enhansome/enhansome-public-api-lists",
