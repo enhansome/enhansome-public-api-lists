@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1023,
+                "stars": 1025,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -791,7 +791,7 @@
                 "open_issues": 11,
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13284,
+                "stars": 13285,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:21.301Z",
+    "last_updated": "2026-08-29T18:59:42.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 50,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15659,
+      "stars": 15665,
       "topics": [
         "api",
         "api-list",
