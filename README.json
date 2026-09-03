@@ -372,7 +372,7 @@
                 "open_issues": 11,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1689,
+                "stars": 1690,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -816,7 +816,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-24T19:10:52Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1651,
@@ -847,7 +847,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13296,
+                "stars": 13303,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1278,8 +1278,8 @@
                 "id": 82846343,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-15T13:02:27Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-03T10:48:16Z",
+                "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
                 "stars": 459,
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:04:22.031Z",
+    "last_updated": "2026-09-03T18:58:05.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-01T11:25:46Z",
-      "open_issues": 57,
+      "open_issues": 58,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15703,
+      "stars": 15715,
       "topics": [
         "api",
         "api-list",
