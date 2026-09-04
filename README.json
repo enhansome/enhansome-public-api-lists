@@ -220,7 +220,7 @@
                 "open_issues": 5,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4251,
+                "stars": 4252,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -369,10 +369,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2022-12-08T06:28:39Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1690,
+                "stars": 1691,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -819,7 +819,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1651,
+                "stars": 1652,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13303,
+                "stars": 13308,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:58:05.986Z",
+    "last_updated": "2026-09-04T18:41:05.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-01T11:25:46Z",
-      "open_issues": 58,
+      "open_issues": 59,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15715,
+      "stars": 15722,
       "topics": [
         "api",
         "api-list",
