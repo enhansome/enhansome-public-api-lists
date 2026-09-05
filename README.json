@@ -49,7 +49,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1323,
+                "stars": 1322,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -220,7 +220,7 @@
                 "open_issues": 5,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4252,
+                "stars": 4253,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -558,7 +558,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-23T17:19:47Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
                 "stars": 60,
@@ -819,7 +819,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1652,
+                "stars": 1654,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13308,
+                "stars": 13310,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1192,7 +1192,7 @@
                 "id": 1188915236,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-03-22T18:51:21Z",
+                "last_commit": "2026-09-05T15:14:55Z",
                 "open_issues": 0,
                 "owner": "SaltyTaro",
                 "repo": "vessel-check-api",
@@ -1254,7 +1254,7 @@
                 "open_issues": 6,
                 "owner": "koch-t",
                 "repo": "KV78Turbo-OVAPI",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:41:05.861Z",
+    "last_updated": "2026-09-05T17:47:29.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-01T11:25:46Z",
-      "open_issues": 59,
+      "open_issues": 61,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15722,
+      "stars": 15729,
       "topics": [
         "api",
         "api-list",
