@@ -49,7 +49,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -561,7 +561,7 @@
                 "open_issues": 4,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "api",
                   "drink",
@@ -705,7 +705,7 @@
                 "open_issues": 15,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "api",
                   "grape",
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10910,
+                "stars": 10909,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13313,
+                "stars": 13312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:07:18.349Z",
+    "last_updated": "2026-09-09T18:55:26.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 65,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15760,
+      "stars": 15770,
       "topics": [
         "api",
         "api-list",
