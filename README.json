@@ -49,7 +49,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1328,
+                "stars": 1329,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1696,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10909,
+                "stars": 10911,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13322,
+                "stars": 13323,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:58:15.579Z",
+    "last_updated": "2026-09-13T18:24:41.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 67,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15794,
+      "stars": 15801,
       "topics": [
         "api",
         "api-list",
