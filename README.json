@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -557,8 +557,8 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T01:51:06Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-14T21:14:40Z",
+                "open_issues": 5,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
                 "stars": 63,
@@ -819,7 +819,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1661,
+                "stars": 1662,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10911,
+                "stars": 10912,
                 "topics": [
                   "api",
                   "capsule",
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 461,
+                "stars": 462,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:01:23.526Z",
+    "last_updated": "2026-09-15T19:21:33.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 21,
+      "open_issues": 23,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15810,
+      "stars": 15822,
       "topics": [
         "api",
         "api-list",

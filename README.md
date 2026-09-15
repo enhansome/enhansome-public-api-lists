@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,810 | 🐛 21 | 📅 2026-09-14
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,810 | 🐛 21 | 📅 2026-09-14
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,810 | 🐛 21 | 📅 2026-09-14
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,810 | 🐛 21 | 📅 2026-09-14
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,810 | 🐛 21 | 📅 2026-09-14
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,822 | 🐛 23 | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,822 | 🐛 23 | 📅 2026-09-14
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,822 | 🐛 23 | 📅 2026-09-14
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,822 | 🐛 23 | 📅 2026-09-14
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,822 | 🐛 23 | 📅 2026-09-14
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -34,7 +34,7 @@
 
 <!-- Silver sponsors get a logo + one-line description -->
 
-*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,810 | 🐛 21 | 📅 2026-09-14*
+*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,822 | 🐛 23 | 📅 2026-09-14*
 
 ### 🥉 Bronze Sponsors
 
@@ -355,7 +355,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,695 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,696 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -524,7 +524,7 @@
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
 |                  [TacoFancy](https://github.com/evz/tacofancy-api) ⭐ 131 \| 🐛 6 \| 🌐 Python \| 📅 2025-08-19                  | Community-driven taco database                                         |    No    |   No  | Unknown |
-| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 63 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-09-11 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
+| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 63 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-09-14 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
 |                                      [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                     | Cocktail Recipes                                                       | `apiKey` |  Yes  |   Yes   |
 |                                          [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                           | `apiKey` |  Yes  |   Yes   |
 |                                     [What's on the menu?](http://nypl.github.io/menus-api/)                                     | NYPL human-transcribed historical menu collection                      | `apiKey` |   No  | Unknown |
@@ -841,7 +841,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,661 \| 🐛 46 \| 🌐 Python \| 📅 2026-08-24 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,662 \| 🐛 46 \| 🌐 Python \| 📅 2026-08-24 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -1173,7 +1173,7 @@
 | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                [An API of Ice And Fire](https://anapioficeandfire.com/)                                | Game Of Thrones API                                                                                                   |    No    |  Yes  | Unknown |
 |                                    [Bob's Burgers API](https://bobsburgersapi.com/)                                    | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show      |    No    |  Yes  |   Yes   |
-| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 461 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-09-03 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
+| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 462 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-09-03 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
 |                             [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                            | TV programme of Czech TV                                                                                              |    No    |   No  | Unknown |
 |               [Dune](https://github.com/ywalia01/dune-api) ⭐ 70 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-07-10              | Dune API                                                                                                              |    No    |  Yes  | Unknown |
 |                                          [Hyperserve](https://hyperserve.io/)                                          | Video backend API: accept any format your users upload, transcode to MP4, deliver via CDN                             | `apiKey` |  Yes  |   Yes   |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
