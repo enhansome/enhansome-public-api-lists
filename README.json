@@ -117,7 +117,7 @@
                 "open_issues": 0,
                 "owner": "fedeperin",
                 "repo": "potterapi",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "api",
                   "espanol",
@@ -557,7 +557,7 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T21:14:40Z",
+                "last_commit": "2026-09-16T21:13:14Z",
                 "open_issues": 5,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
@@ -819,7 +819,7 @@
                 "open_issues": 46,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1662,
+                "stars": 1664,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1188,13 +1188,13 @@
               "repo_info": {
                 "archived": false,
                 "description": "Free API for instant vessel sanctions screening, ownership transparency, and vetting intelligence. No API key required.",
-                "homepage": null,
+                "homepage": "https://arcnautical.com/developers/",
                 "id": 1188915236,
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-05T15:14:55Z",
                 "open_issues": 0,
-                "owner": "SaltyTaro",
+                "owner": "arcnautical",
                 "repo": "vessel-check-api",
                 "stars": 4,
                 "topics": [
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:11:44.624Z",
+    "last_updated": "2026-09-17T19:23:43.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 25,
+      "open_issues": 29,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15829,
+      "stars": 15836,
       "topics": [
         "api",
         "api-list",
