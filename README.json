@@ -269,7 +269,7 @@
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "api",
                   "esm",
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1697,
+                "stars": 1698,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1027,
+                "stars": 1028,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13327,
+                "stars": 13330,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:23:43.071Z",
+    "last_updated": "2026-09-18T18:44:01.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 29,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15836,
+      "stars": 15843,
       "topics": [
         "api",
         "api-list",
