@@ -557,8 +557,8 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T21:13:14Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-19T18:09:31Z",
+                "open_issues": 4,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
                 "stars": 64,
@@ -623,7 +623,7 @@
                 "language": null,
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-01-22T15:05:15Z",
-                "open_issues": 62,
+                "open_issues": 61,
                 "owner": "Bungie-net",
                 "repo": "api",
                 "stars": 1302,
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10911,
+                "stars": 10912,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13330,
+                "stars": 13332,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:44:01.752Z",
+    "last_updated": "2026-09-19T18:16:36.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 29,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15843,
+      "stars": 15847,
       "topics": [
         "api",
         "api-list",
