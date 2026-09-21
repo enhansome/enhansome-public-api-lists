@@ -49,7 +49,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -626,7 +626,7 @@
                 "open_issues": 61,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1302,
+                "stars": 1301,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -815,7 +815,7 @@
                 "id": 25596429,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T18:10:41Z",
+                "last_commit": "2026-09-20T19:37:48Z",
                 "open_issues": 42,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10913,
+                "stars": 10914,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13334,
+                "stars": 13336,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:22:13.653Z",
+    "last_updated": "2026-09-21T20:11:03.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 30,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15857,
+      "stars": 15862,
       "topics": [
         "api",
         "api-list",

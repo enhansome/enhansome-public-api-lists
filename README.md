@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,857 | 🐛 30 | 📅 2026-09-14
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,857 | 🐛 30 | 📅 2026-09-14
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,857 | 🐛 30 | 📅 2026-09-14
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,857 | 🐛 30 | 📅 2026-09-14
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,857 | 🐛 30 | 📅 2026-09-14
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,862 | 🐛 30 | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,862 | 🐛 30 | 📅 2026-09-14
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,862 | 🐛 30 | 📅 2026-09-14
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,862 | 🐛 30 | 📅 2026-09-14
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,862 | 🐛 30 | 📅 2026-09-14
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -34,7 +34,7 @@
 
 <!-- Silver sponsors get a logo + one-line description -->
 
-*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,857 | 🐛 30 | 📅 2026-09-14*
+*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,862 | 🐛 30 | 📅 2026-09-14*
 
 ### 🥉 Bronze Sponsors
 
@@ -71,7 +71,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,330 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,331 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -554,7 +554,7 @@
 |                                       [crob.at](https://crob.at/api)                                       | Pokémon team sharing and type chart data                                                                                                                     |        No       |  Yes  |   Yes   |
 |                             [Cross Universe](https://crossuniverse.net/apiDocs)                            | Cross Universe Card Data                                                                                                                                     |        No       |  Yes  |   Yes   |
 |                                 [Deck of Cards](http://deckofcardsapi.com/)                                | Deck of Cards                                                                                                                                                |        No       |   No  | Unknown |
-|           [Destiny The Game](https://github.com/Bungie-net/api) ⭐ 1,302 \| 🐛 61 \| 📅 2026-01-22          | Bungie Platform API                                                                                                                                          |     `apiKey`    |  Yes  | Unknown |
+|           [Destiny The Game](https://github.com/Bungie-net/api) ⭐ 1,301 \| 🐛 61 \| 📅 2026-01-22          | Bungie Platform API                                                                                                                                          |     `apiKey`    |  Yes  | Unknown |
 |                                    [Dota 2](https://docs.opendota.com/)                                    | Provides information about Player stats , Match stats, Rankings for Dota 2                                                                                   |        No       |  Yes  | Unknown |
 |                               [Dungeons and Dragons](http://www.dnd5eapi.co/)                              | Reference for 5th edition spells, classes, monsters, and more                                                                                                |        No       |   No  |    No   |
 |                                 [Eight Ball API](https://eightballapi.com/)                                | Fortune-telling API with random, sentiment-biased, and multi-language responses                                                                              |        No       |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,334 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,336 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
