@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,880 | 🐛 33 | 📅 2026-09-14
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,880 | 🐛 33 | 📅 2026-09-14
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,880 | 🐛 33 | 📅 2026-09-14
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,880 | 🐛 33 | 📅 2026-09-14
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,880 | 🐛 33 | 📅 2026-09-14
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,886 | 🐛 38 | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,886 | 🐛 38 | 📅 2026-09-14
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,886 | 🐛 38 | 📅 2026-09-14
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,886 | 🐛 38 | 📅 2026-09-14
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,886 | 🐛 38 | 📅 2026-09-14
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -34,7 +34,7 @@
 
 <!-- Silver sponsors get a logo + one-line description -->
 
-*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,880 | 🐛 33 | 📅 2026-09-14*
+*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,886 | 🐛 38 | 📅 2026-09-14*
 
 ### 🥉 Bronze Sponsors
 
@@ -102,7 +102,7 @@
 |                                  [eeemoji](https://eeemoji.com/api)                                  | Emoji metadata: names, keywords, categories, shortcodes and skin tones        |    No    |  Yes  |   Yes   |
 |                      [Europeana](https://pro.europeana.eu/resources/apis/search)                     | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                                  [Freepik](https://freepik.com/api)                                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
-| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 422 \| 🐛 19 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 423 \| 🐛 19 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
 |                            [Iconfinder](https://developer.iconfinder.com)                            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |                      [Metropolitan Museum of Art](https://metmuseum.github.io/)                      | Art                                                                           |    No    |  Yes  | Unknown |
 |                       [Noun Project](http://api.thenounproject.com/index.html)                       | Icons                                                                         |  `OAuth` |   No  | Unknown |
@@ -355,7 +355,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,700 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,701 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,336 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,337 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
