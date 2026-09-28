@@ -85,7 +85,7 @@
                 "open_issues": 19,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "api",
                   "iiif",
@@ -623,10 +623,10 @@
                 "language": null,
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-01-22T15:05:15Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1301,
+                "stars": 1302,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1030,
+                "stars": 1031,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -816,7 +816,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-22T16:27:10Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1666,
@@ -847,7 +847,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13342,
+                "stars": 13346,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:24:11.473Z",
+    "last_updated": "2026-09-28T21:27:41.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 47,
+      "open_issues": 52,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15914,
+      "stars": 15929,
       "topics": [
         "api",
         "api-list",
