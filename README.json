@@ -49,7 +49,7 @@
                 "open_issues": 68,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1333,
+                "stars": 1334,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -117,7 +117,7 @@
                 "open_issues": 0,
                 "owner": "fedeperin",
                 "repo": "potterapi",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "api",
                   "espanol",
@@ -220,7 +220,7 @@
                 "open_issues": 5,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4258,
+                "stars": 4261,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -269,7 +269,7 @@
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "api",
                   "esm",
@@ -561,7 +561,7 @@
                 "open_issues": 3,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "api",
                   "drink",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:27:41.235Z",
+    "last_updated": "2026-09-29T20:19:22.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 52,
+      "open_issues": 55,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15929,
+      "stars": 15937,
       "topics": [
         "api",
         "api-list",
