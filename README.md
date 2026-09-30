@@ -1,10 +1,10 @@
 # Awesome Public API Lists with stars
 
-[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,937 | 🐛 55 | 📅 2026-09-14
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,937 | 🐛 55 | 📅 2026-09-14
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,937 | 🐛 55 | 📅 2026-09-14
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,937 | 🐛 55 | 📅 2026-09-14
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,937 | 🐛 55 | 📅 2026-09-14
+[![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml) ⭐ 15,945 | 🐛 58 | 📅 2026-09-14
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers) ⭐ 15,945 | 🐛 58 | 📅 2026-09-14
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork) ⭐ 15,945 | 🐛 58 | 📅 2026-09-14
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new) ⭐ 15,945 | 🐛 58 | 📅 2026-09-14
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls) ⭐ 15,945 | 🐛 58 | 📅 2026-09-14
 
 > A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
@@ -34,7 +34,7 @@
 
 <!-- Silver sponsors get a logo + one-line description -->
 
-*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,937 | 🐛 55 | 📅 2026-09-14*
+*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md) ⭐ 15,945 | 🐛 58 | 📅 2026-09-14*
 
 ### 🥉 Bronze Sponsors
 
@@ -58,7 +58,7 @@
 |                                    [Dogs](https://dog.ceo/dog-api/)                                   | Based on the Stanford Dogs Dataset         |    No    |  Yes  |   Yes   |
 |                                     [HTTP Dogs](https://http.dog/)                                    | Dogs for every HTTP status code            |    No    |  Yes  | Unknown |
 |                                      [HTTPCat](https://http.cat/)                                     | Cat for every HTTP Status                  |    No    |  Yes  | Unknown |
-| [Movebank](https://github.com/movebank/movebank-api-doc) ⭐ 193 \| 🐛 14 \| 🌐 Python \| 📅 2026-01-02 | Movement and Migration data of animals     |    No    |  Yes  | Unknown |
+| [Movebank](https://github.com/movebank/movebank-api-doc) ⭐ 194 \| 🐛 14 \| 🌐 Python \| 📅 2026-01-02 | Movement and Migration data of animals     |    No    |  Yes  | Unknown |
 |                               [Open Dog Registry](https://registry.dog/)                              | Adoption                                   |  `OAuth` |  Yes  |   Yes   |
 |                       [Petfinder](https://www.petfinder.com/developers/v2/docs/)                      | Information and images of dog breeds       |    No    |  Yes  |   Yes   |
 |                               [RandomDog](https://random.dog/woof.json)                               | Random pictures of dogs                    |    No    |  Yes  |   Yes   |
@@ -203,7 +203,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,261 \| 🐛 5 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,260 \| 🐛 5 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Bitcoin Halving](https://why21million.com/halving-api/)                         | Halving era, block reward, and schedule arithmetic for any Bitcoin block height                                                    |    No    |  Yes  |   Yes   |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
@@ -355,7 +355,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,701 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,703 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -524,7 +524,7 @@
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
 |                  [TacoFancy](https://github.com/evz/tacofancy-api) ⭐ 132 \| 🐛 6 \| 🌐 Python \| 📅 2025-08-19                  | Community-driven taco database                                         |    No    |   No  | Unknown |
-| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 67 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-09-27 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
+| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 67 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-09-30 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
 |                                      [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                     | Cocktail Recipes                                                       | `apiKey` |  Yes  |   Yes   |
 |                                          [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                           | `apiKey` |  Yes  |   Yes   |
 |                                     [What's on the menu?](http://nypl.github.io/menus-api/)                                     | NYPL human-transcribed historical menu collection                      | `apiKey` |   No  | Unknown |
@@ -746,7 +746,7 @@
 |                                        [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                                       | Job aggregator                                                                                                      | `apiKey` |  Yes  | Unknown |
 |                                                    [JobsPipe](https://jobspipe.dev)                                                   | Job postings from 30+ ATS and job boards, deduplicated into one schema with salary, seniority and tech stack fields | `apiKey` |  Yes  |   Yes   |
 |                                              [Juju](http://www.juju.com/publisher/spec/)                                              | Job search engine                                                                                                   | `apiKey` |   No  | Unknown |
-| [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) ⭐ 213 \| 🐛 13 \| 🌐 Python \| 📅 2018-07-24 | Job titles, skills and related jobs data                                                                            |    No    |   No  | Unknown |
+| [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) ⭐ 214 \| 🐛 13 \| 🌐 Python \| 📅 2018-07-24 | Job titles, skills and related jobs data                                                                            |    No    |   No  | Unknown |
 |                                               [PayCrunch](https://paycrunch.co/api.html)                                              | US wages for 1,008 occupations nationally and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0              |    No    |  Yes  |   Yes   |
 |                                               [Reed](https://www.reed.co.uk/developers)                                               | Job board aggregator                                                                                                | `apiKey` |  Yes  | Unknown |
 |                                       [Search.gov Jobs](https://search.gov/developer/jobs.html)                                       | Tap into a list of current jobs openings with the United States government                                          |    No    |  Yes  | Unknown |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,346 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,348 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
