@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13338,
+                "stars": 13339,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:14:05.279Z",
+    "last_updated": "2026-10-03T05:02:16.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1393,7 +1393,7 @@
       "open_issues": 59,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 15972,
+      "stars": 15976,
       "topics": [
         "api",
         "api-list",
