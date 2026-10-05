@@ -335,7 +335,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-07-30 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-10-05 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -524,7 +524,7 @@
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
 |                  [TacoFancy](https://github.com/evz/tacofancy-api) ⭐ 132 \| 🐛 6 \| 🌐 Python \| 📅 2025-08-19                  | Community-driven taco database                                         |    No    |   No  | Unknown |
-| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 67 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-09-30 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
+| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 67 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-10-05 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
 |                                      [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                     | Cocktail Recipes                                                       | `apiKey` |  Yes  |   Yes   |
 |                                          [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                           | `apiKey` |  Yes  |   Yes   |
 |                                     [What's on the menu?](http://nypl.github.io/menus-api/)                                     | NYPL human-transcribed historical menu collection                      | `apiKey` |   No  | Unknown |
@@ -841,7 +841,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,666 \| 🐛 38 \| 🌐 Python \| 📅 2026-09-22 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,667 \| 🐛 38 \| 🌐 Python \| 📅 2026-09-22 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,340 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,344 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
