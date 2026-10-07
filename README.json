@@ -217,7 +217,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-06-19T16:40:38Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
                 "stars": 4259,
@@ -248,7 +248,7 @@
                 "open_issues": 7,
                 "owner": "gitterHQ",
                 "repo": "docs",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -269,7 +269,7 @@
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "api",
                   "esm",
@@ -540,7 +540,7 @@
                 "open_issues": 6,
                 "owner": "evz",
                 "repo": "tacofancy-api",
-                "stars": 132,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -557,11 +557,11 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T21:14:00Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-07T01:30:03Z",
+                "open_issues": 4,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "api",
                   "drink",
@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1032,
+                "stars": 1031,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -788,7 +788,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2016-10-04T13:27:51Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "theoldreader",
                 "repo": "api",
                 "stars": 204,
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13344,
+                "stars": 13343,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:38:16.169Z",
+    "last_updated": "2026-10-07T20:53:25.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 74,
+      "open_issues": 80,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16016,
+      "stars": 16021,
       "topics": [
         "api",
         "api-list",

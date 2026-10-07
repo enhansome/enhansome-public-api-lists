@@ -203,7 +203,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,259 \| 🐛 5 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,259 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Bitcoin Halving](https://why21million.com/halving-api/)                         | Halving era, block reward, and schedule arithmetic for any Bitcoin block height                                                    |    No    |  Yes  |   Yes   |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
@@ -335,7 +335,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-10-05 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 251 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-10-05 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -523,8 +523,8 @@
 |                                                [RecipeAPI](https://recipeapi.io)                                                | Recipes, ingredients, nutrition and instructions                       | `apiKey` |  Yes  |   Yes   |
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
-|                  [TacoFancy](https://github.com/evz/tacofancy-api) ⭐ 132 \| 🐛 6 \| 🌐 Python \| 📅 2025-08-19                  | Community-driven taco database                                         |    No    |   No  | Unknown |
-| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 67 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-10-05 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
+|                  [TacoFancy](https://github.com/evz/tacofancy-api) ⭐ 130 \| 🐛 6 \| 🌐 Python \| 📅 2025-08-19                  | Community-driven taco database                                         |    No    |   No  | Unknown |
+| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 66 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-10-07 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
 |                                      [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                     | Cocktail Recipes                                                       | `apiKey` |  Yes  |   Yes   |
 |                                          [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                           | `apiKey` |  Yes  |   Yes   |
 |                                     [What's on the menu?](http://nypl.github.io/menus-api/)                                     | NYPL human-transcribed historical menu collection                      | `apiKey` |   No  | Unknown |
@@ -566,7 +566,7 @@
 |                                  [Hearthstone](http://hearthstoneapi.com/)                                 | Hearthstone Cards Information                                                                                                                                | `X-Mashape-Key` |  Yes  | Unknown |
 |                                     [Hypixel](https://api.hypixel.net/)                                    | Hypixel player stats                                                                                                                                         |     `apiKey`    |  Yes  | Unknown |
 |                                  [JokeAPI](https://sv443.net/jokeapi/v2/)                                  | Programming, Miscellaneous and Dark Jokes                                                                                                                    |        No       |  Yes  |   Yes   |
-|  [Jokes](https://github.com/15Dkatz/official_joke_api) ⭐ 1,032 \| 🐛 25 \| 🌐 JavaScript \| 📅 2024-12-06  | Programming and general jokes                                                                                                                                |        No       |  Yes  | Unknown |
+|  [Jokes](https://github.com/15Dkatz/official_joke_api) ⭐ 1,031 \| 🐛 25 \| 🌐 JavaScript \| 📅 2024-12-06  | Programming and general jokes                                                                                                                                |        No       |  Yes  | Unknown |
 |                                  [Jokes One](https://jokes.one/api/joke/)                                  | Joke of the day and large category of jokes accessible via REST API                                                                                          |     `apiKey`    |  Yes  |   Yes   |
 |                              [L2 Calendar](https://l2calendar.com/api/servers)                             | Lineage 2 private servers list with names, websites, chronicles, rates and opening dates                                                                     |        No       |  Yes  |   Yes   |
 |                                  [LotteryData.io](https://lotterydata.io/)                                 | Powerball, MegaMillions, and more results (live + historical) games                                                                                          |     `apiKey`    |  Yes  |   Yes   |
@@ -816,7 +816,7 @@
 |                               [OkSurf](https://ok.surf/)                              | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
 |                            [Scoopkit](https://scoopkit.dev)                           | AI-industry news deduplicated into structured events, not articles                          | `apiKey` |  Yes  |   Yes   |
 |                 [The Guardian](http://open-platform.theguardian.com/)                 | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
-| [The Old Reader](https://github.com/theoldreader/api) ⭐ 204 \| 🐛 11 \| 📅 2016-10-04 | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
+| [The Old Reader](https://github.com/theoldreader/api) ⭐ 204 \| 🐛 12 \| 📅 2016-10-04 | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,344 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,343 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
