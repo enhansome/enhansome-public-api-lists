@@ -71,7 +71,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,334 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,335 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -203,7 +203,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,259 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,258 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Bitcoin Halving](https://why21million.com/halving-api/)                         | Halving era, block reward, and schedule arithmetic for any Bitcoin block height                                                    |    No    |  Yes  |   Yes   |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
@@ -566,7 +566,7 @@
 |                                  [Hearthstone](http://hearthstoneapi.com/)                                 | Hearthstone Cards Information                                                                                                                                | `X-Mashape-Key` |  Yes  | Unknown |
 |                                     [Hypixel](https://api.hypixel.net/)                                    | Hypixel player stats                                                                                                                                         |     `apiKey`    |  Yes  | Unknown |
 |                                  [JokeAPI](https://sv443.net/jokeapi/v2/)                                  | Programming, Miscellaneous and Dark Jokes                                                                                                                    |        No       |  Yes  |   Yes   |
-|  [Jokes](https://github.com/15Dkatz/official_joke_api) ⭐ 1,031 \| 🐛 25 \| 🌐 JavaScript \| 📅 2024-12-06  | Programming and general jokes                                                                                                                                |        No       |  Yes  | Unknown |
+|  [Jokes](https://github.com/15Dkatz/official_joke_api) ⭐ 1,032 \| 🐛 25 \| 🌐 JavaScript \| 📅 2024-12-06  | Programming and general jokes                                                                                                                                |        No       |  Yes  | Unknown |
 |                                  [Jokes One](https://jokes.one/api/joke/)                                  | Joke of the day and large category of jokes accessible via REST API                                                                                          |     `apiKey`    |  Yes  |   Yes   |
 |                              [L2 Calendar](https://l2calendar.com/api/servers)                             | Lineage 2 private servers list with names, websites, chronicles, rates and opening dates                                                                     |        No       |  Yes  |   Yes   |
 |                                  [LotteryData.io](https://lotterydata.io/)                                 | Powerball, MegaMillions, and more results (live + historical) games                                                                                          |     `apiKey`    |  Yes  |   Yes   |
@@ -816,7 +816,7 @@
 |                               [OkSurf](https://ok.surf/)                              | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
 |                            [Scoopkit](https://scoopkit.dev)                           | AI-industry news deduplicated into structured events, not articles                          | `apiKey` |  Yes  |   Yes   |
 |                 [The Guardian](http://open-platform.theguardian.com/)                 | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
-| [The Old Reader](https://github.com/theoldreader/api) ⭐ 204 \| 🐛 12 \| 📅 2016-10-04 | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
+| [The Old Reader](https://github.com/theoldreader/api) ⭐ 205 \| 🐛 12 \| 📅 2016-10-04 | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,345 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,347 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
