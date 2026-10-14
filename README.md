@@ -71,7 +71,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,335 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,336 \| 🐛 68 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -117,7 +117,7 @@
 | :--------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
 |                                [Bhagavad Gita](https://bhagavadgita.io/api)                                | Bhagavad Gita text                                                                                       | `OAuth` |  Yes  |   Yes   |
 |                            [Google Books](https://developers.google.com/books/)                            | Books                                                                                                    | `OAuth` |  Yes  | Unknown |
-| [Harry Potter API](https://github.com/fedeperin/potterapi) ⭐ 126 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-18 | API to get data from Harry Potter books, movies, characters and spells                                   |    No   |  Yes  |   Yes   |
+| [Harry Potter API](https://github.com/fedeperin/potterapi) ⭐ 127 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-18 | API to get data from Harry Potter books, movies, characters and spells                                   |    No   |  Yes  |   Yes   |
 |                           [Open Library](https://openlibrary.org/developers/api)                           | Books, book covers and related data                                                                      |    No   |  Yes  | Unknown |
 |                  [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)                 | Books, book covers and related data                                                                      |    No   |  Yes  | Unknown |
 |                             [Rig Veda](https://aninditabasu.github.io/indica/)                             | Gods and poets, their categories, and the verse meters, with the mandal and sukta number                 |    No   |  Yes  | Unknown |
@@ -524,7 +524,7 @@
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
 |                  [TacoFancy](https://github.com/evz/tacofancy-api) ⭐ 130 \| 🐛 6 \| 🌐 Python \| 📅 2025-08-19                  | Community-driven taco database                                         |    No    |   No  | Unknown |
-| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 66 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-10-08 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
+| [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) ⭐ 66 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-10-14 | Food & Drink Reviews                                                   |    No    |  Yes  | Unknown |
 |                                      [TheCocktailDB](https://www.thecocktaildb.com/api.php)                                     | Cocktail Recipes                                                       | `apiKey` |  Yes  |   Yes   |
 |                                          [TheMealDB](https://www.themealdb.com/api.php)                                         | Meal Recipes                                                           | `apiKey` |  Yes  |   Yes   |
 |                                     [What's on the menu?](http://nypl.github.io/menus-api/)                                     | NYPL human-transcribed historical menu collection                      | `apiKey` |   No  | Unknown |
@@ -601,7 +601,7 @@
 
 |                                                                     API                                                                    | Description                                                                                                        |       Auth      | HTTPS |   CORS  |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------ | :-------------: | :---: | :-----: |
-| [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) ⭐ 35 \| 🐛 0 \| 🌐 JavaScript \| 📅 2022-10-19 | Get all administrative divisions of a country                                                                      |        No       |  Yes  |   Yes   |
+| [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) ⭐ 36 \| 🐛 0 \| 🌐 JavaScript \| 📅 2022-10-19 | Get all administrative divisions of a country                                                                      |        No       |  Yes  |   Yes   |
 |                                            [adresse.data.gouv.fr](https://adresse.data.gouv.fr)                                            | Address database of France, geocoding and reverse                                                                  |        No       |  Yes  | Unknown |
 |                                     [Airtel IP](https://aether.epias.ltd/ip2country/1.1.1.1/?full=true)                                    | IP Geolocation API. Collecting data from multiple sources                                                          |        No       |  Yes  | Unknown |
 |                                                     [ApogeoAPI](https://apogeoapi.com)                                                     | Countries, states, cities, IP geolocation, and live exchange rates (161 currencies) in one API                     |     `apiKey`    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,355 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,358 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1057,7 +1057,7 @@
 |                    [Randommer](https://randommer.io/randommer-api)                   | Random data generator                                       | `apiKey` |  Yes  |   Yes   |
 |                          [RandomUser](https://randomuser.me)                         | Generates random user data                                  |    No    |  Yes  | Unknown |
 |                           [RoboHash](https://robohash.org/)                          | Generate random robot/alien avatars                         |    No    |  Yes  | Unknown |
-|   [Short Id](https://github.com/aguedo/idgen) ⭐ 2 \| 🐛 0 \| 🌐 C# \| 📅 2025-05-17  | Generate unique short Ids                                   |    No    |  Yes  |   Yes   |
+|   [Short Id](https://github.com/aguedo/idgen) ⭐ 3 \| 🐛 0 \| 🌐 C# \| 📅 2025-05-17  | Generate unique short Ids                                   |    No    |  Yes  |   Yes   |
 |                      [Softwium](https://softwium.com/fake-api/)                      | Test data for testing and prototyping                       |    No    |  Yes  |   Yes   |
 |           [This Person Does not Exist](https://thispersondoesnotexist.com)           | Generates real-life faces of people who do not exist        |    No    |  Yes  | Unknown |
 | [UI Names](https://github.com/thm/uinames) ⭐ 743 \| 🐛 34 \| 🌐 PHP \| 📅 2023-11-22 | Generate random fake names                                  |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
