@@ -46,10 +46,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-08-18T00:20:59Z",
-                "open_issues": 68,
+                "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4259,
+                "stars": 4256,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -269,7 +269,7 @@
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
-                "stars": 252,
+                "stars": 251,
                 "topics": [
                   "api",
                   "esm",
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1709,
+                "stars": 1712,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -557,11 +557,11 @@
                 "id": 55330319,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T05:01:42Z",
+                "last_commit": "2026-10-15T00:52:34Z",
                 "open_issues": 8,
                 "owner": "andyklimczak",
                 "repo": "TheReportOfTheWeek-API",
-                "stars": 66,
+                "stars": 65,
                 "topics": [
                   "api",
                   "drink",
@@ -626,7 +626,7 @@
                 "open_issues": 63,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -819,7 +819,7 @@
                 "open_issues": 39,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1669,
+                "stars": 1670,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13358,
+                "stars": 13357,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1131,7 +1131,7 @@
                 "open_issues": 34,
                 "owner": "thm",
                 "repo": "uinames",
-                "stars": 743,
+                "stars": 742,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1308,7 +1308,7 @@
                 "open_issues": 1,
                 "owner": "ywalia01",
                 "repo": "dune-api",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "api",
                   "dune",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:49:40.492Z",
+    "last_updated": "2026-10-15T19:33:17.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 108,
+      "open_issues": 112,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16097,
+      "stars": 16109,
       "topics": [
         "api",
         "api-list",
