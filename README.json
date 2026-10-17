@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1339,
+                "stars": 1340,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4256,
+                "stars": 4257,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -816,7 +816,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-22T16:27:10Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
                 "stars": 1670,
@@ -847,7 +847,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10913,
+                "stars": 10914,
                 "topics": [
                   "api",
                   "capsule",
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:07:28.435Z",
+    "last_updated": "2026-10-17T18:01:35.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 113,
+      "open_issues": 114,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16121,
+      "stars": 16129,
       "topics": [
         "api",
         "api-list",
