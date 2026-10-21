@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -265,7 +265,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-20T14:58:41Z",
+                "last_commit": "2026-10-21T15:49:50Z",
                 "open_issues": 8,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1717,
+                "stars": 1716,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -626,7 +626,7 @@
                 "open_issues": 60,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1302,
+                "stars": 1301,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -770,7 +770,7 @@
                 "open_issues": 20,
                 "owner": "feedbin",
                 "repo": "feedbin-api",
-                "stars": 409,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13362,
+                "stars": 13364,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 465,
+                "stars": 467,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:43:28.852Z",
+    "last_updated": "2026-10-21T19:45:46.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 125,
+      "open_issues": 127,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16163,
+      "stars": 16173,
       "topics": [
         "api",
         "api-list",
