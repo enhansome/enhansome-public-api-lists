@@ -85,7 +85,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "api",
                   "iiif",
@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4259,
+                "stars": 4260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1715,
+                "stars": 1716,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -626,7 +626,7 @@
                 "open_issues": 60,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1302,
+                "stars": 1303,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -705,7 +705,7 @@
                 "open_issues": 15,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "api",
                   "grape",
@@ -847,7 +847,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10916,
+                "stars": 10915,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13374,
+                "stars": 13379,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:36:36.089Z",
+    "last_updated": "2026-10-26T20:48:13.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 139,
+      "open_issues": 148,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16217,
+      "stars": 16227,
       "topics": [
         "api",
         "api-list",
