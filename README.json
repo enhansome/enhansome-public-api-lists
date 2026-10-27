@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4260,
+                "stars": 4259,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -265,7 +265,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-23T21:56:51Z",
+                "last_commit": "2026-10-27T12:26:39Z",
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -504,7 +504,7 @@
                 "id": 900943508,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-11T23:03:31Z",
+                "last_commit": "2026-10-27T14:06:42Z",
                 "open_issues": 0,
                 "owner": "alxiw",
                 "repo": "punkapi",
@@ -626,7 +626,7 @@
                 "open_issues": 60,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1303,
+                "stars": 1304,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -819,7 +819,7 @@
                 "open_issues": 38,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1674,
+                "stars": 1675,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10915,
+                "stars": 10916,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13379,
+                "stars": 13380,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:48:13.860Z",
+    "last_updated": "2026-10-27T20:18:19.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 148,
+      "open_issues": 153,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16227,
+      "stars": 16233,
       "topics": [
         "api",
         "api-list",
