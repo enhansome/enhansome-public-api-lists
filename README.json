@@ -265,7 +265,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-10-28T16:05:01Z",
+                "last_commit": "2026-10-29T17:26:44Z",
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1037,
+                "stars": 1036,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -701,7 +701,7 @@
                 "id": 39113829,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-28T15:16:18Z",
+                "last_commit": "2026-10-29T20:43:08Z",
                 "open_issues": 5,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10919,
+                "stars": 10920,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13381,
+                "stars": 13385,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:40:20.212Z",
+    "last_updated": "2026-10-29T20:43:52.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 156,
+      "open_issues": 157,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16244,
+      "stars": 16253,
       "topics": [
         "api",
         "api-list",
