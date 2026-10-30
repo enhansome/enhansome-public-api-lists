@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1344,
+                "stars": 1343,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -85,7 +85,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "api",
                   "iiif",
@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4260,
+                "stars": 4259,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -504,7 +504,7 @@
                 "id": 900943508,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T21:23:43Z",
+                "last_commit": "2026-10-30T00:17:05Z",
                 "open_issues": 0,
                 "owner": "alxiw",
                 "repo": "punkapi",
@@ -626,7 +626,7 @@
                 "open_issues": 60,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1304,
+                "stars": 1306,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -701,8 +701,8 @@
                 "id": 39113829,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-29T20:43:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-29T21:00:29Z",
+                "open_issues": 4,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
                 "stars": 108,
@@ -819,7 +819,7 @@
                 "open_issues": 38,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1675,
+                "stars": 1676,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -865,7 +865,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2023-05-19T07:47:23Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "D3vd",
                 "repo": "Meme_Api",
                 "stars": 889,
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13385,
+                "stars": 13386,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1282,7 +1282,7 @@
                 "open_issues": 8,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:43:52.595Z",
+    "last_updated": "2026-10-30T20:15:08.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 157,
+      "open_issues": 163,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16253,
+      "stars": 16260,
       "topics": [
         "api",
         "api-list",
