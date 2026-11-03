@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1715,
+                "stars": 1714,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -623,7 +623,7 @@
                 "language": null,
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-01-22T15:05:15Z",
-                "open_issues": 61,
+                "open_issues": 60,
                 "owner": "Bungie-net",
                 "repo": "api",
                 "stars": 1306,
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13397,
+                "stars": 13402,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:14:55.446Z",
+    "last_updated": "2026-11-03T21:20:46.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 170,
+      "open_issues": 176,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16288,
+      "stars": 16292,
       "topics": [
         "api",
         "api-list",
