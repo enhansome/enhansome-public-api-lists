@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1714,
+                "stars": 1715,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -652,7 +652,7 @@
                 "open_issues": 25,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1036,
+                "stars": 1034,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -865,7 +865,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2023-05-19T07:47:23Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "D3vd",
                 "repo": "Meme_Api",
                 "stars": 889,
@@ -1282,7 +1282,7 @@
                 "open_issues": 9,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 468,
+                "stars": 467,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:20:46.148Z",
+    "last_updated": "2026-11-04T21:37:07.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 176,
+      "open_issues": 182,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16292,
+      "stars": 16305,
       "topics": [
         "api",
         "api-list",
