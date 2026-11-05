@@ -102,7 +102,7 @@
 |                                  [eeemoji](https://eeemoji.com/api)                                  | Emoji metadata: names, keywords, categories, shortcodes and skin tones        |    No    |  Yes  |   Yes   |
 |                      [Europeana](https://pro.europeana.eu/resources/apis/search)                     | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                                  [Freepik](https://freepik.com/api)                                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
-| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 426 \| 🐛 20 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 427 \| 🐛 20 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
 |                            [Iconfinder](https://developer.iconfinder.com)                            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |                      [Metropolitan Museum of Art](https://metmuseum.github.io/)                      | Art                                                                           |    No    |  Yes  | Unknown |
 |                       [Noun Project](http://api.thenounproject.com/index.html)                       | Icons                                                                         |  `OAuth` |   No  | Unknown |
@@ -203,7 +203,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,259 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,261 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Bitcoin Halving](https://why21million.com/halving-api/)                         | Halving era, block reward, and schedule arithmetic for any Bitcoin block height                                                    |    No    |  Yes  |   Yes   |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,402 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,405 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1173,7 +1173,7 @@
 | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                [An API of Ice And Fire](https://anapioficeandfire.com/)                                | Game Of Thrones API                                                                                                   |    No    |  Yes  | Unknown |
 |                                    [Bob's Burgers API](https://bobsburgersapi.com/)                                    | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show      |    No    |  Yes  |   Yes   |
-| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 467 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-10-31 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
+| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 468 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-10-31 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
 |                             [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                            | TV programme of Czech TV                                                                                              |    No    |   No  | Unknown |
 |               [Dune](https://github.com/ywalia01/dune-api) ⭐ 71 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-07-10              | Dune API                                                                                                              |    No    |  Yes  | Unknown |
 |                                          [Hyperserve](https://hyperserve.io/)                                          | Video backend API: accept any format your users upload, transcode to MP4, deliver via CDN                             | `apiKey` |  Yes  |   Yes   |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
