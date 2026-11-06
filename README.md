@@ -117,7 +117,7 @@
 | :--------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
 |                                [Bhagavad Gita](https://bhagavadgita.io/api)                                | Bhagavad Gita text                                                                                       | `OAuth` |  Yes  |   Yes   |
 |                            [Google Books](https://developers.google.com/books/)                            | Books                                                                                                    | `OAuth` |  Yes  | Unknown |
-| [Harry Potter API](https://github.com/fedeperin/potterapi) ⭐ 126 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-18 | API to get data from Harry Potter books, movies, characters and spells                                   |    No   |  Yes  |   Yes   |
+| [Harry Potter API](https://github.com/fedeperin/potterapi) ⭐ 127 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-18 | API to get data from Harry Potter books, movies, characters and spells                                   |    No   |  Yes  |   Yes   |
 |                           [Open Library](https://openlibrary.org/developers/api)                           | Books, book covers and related data                                                                      |    No   |  Yes  | Unknown |
 |                  [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/)                 | Books, book covers and related data                                                                      |    No   |  Yes  | Unknown |
 |                             [Rig Veda](https://aninditabasu.github.io/indica/)                             | Gods and poets, their categories, and the verse meters, with the mandal and sukta number                 |    No   |  Yes  | Unknown |
@@ -355,7 +355,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,715 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,716 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -519,7 +519,7 @@
 |                                             [Edamam](https://developer.edamam.com/)                                             | Recipe Search                                                          | `apiKey` |  Yes  | Unknown |
 |                                         [Open Brewery DB](https://www.openbrewerydb.org)                                        | Breweries, Cideries and Craft Beer Bottle Shops                        |    No    |  Yes  |   Yes   |
 |                                     [Open Food Facts](https://world.openfoodfacts.org/data)                                     | Food Products Database                                                 |    No    |  Yes  | Unknown |
-|                      [PunkAPI](https://github.com/alxiw/punkapi) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-30                     | BrewDog's DIY Dog beer catalogue as an API                             |    No    |  Yes  |   Yes   |
+|                      [PunkAPI](https://github.com/alxiw/punkapi) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-05                     | BrewDog's DIY Dog beer catalogue as an API                             |    No    |  Yes  |   Yes   |
 |                                                [RecipeAPI](https://recipeapi.io)                                                | Recipes, ingredients, nutrition and instructions                       | `apiKey` |  Yes  |   Yes   |
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,405 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,409 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
