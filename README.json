@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1344,
+                "stars": 1343,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -649,7 +649,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-12-06T06:22:10Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
                 "stars": 1034,
@@ -1016,7 +1016,7 @@
                 "open_issues": 1,
                 "owner": "giovanigenerali",
                 "repo": "cartrolandofc",
-                "stars": 279,
+                "stars": 278,
                 "topics": [
                   "cartola",
                   "cartola-api",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:09:23.464Z",
+    "last_updated": "2026-11-07T19:43:20.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 193,
+      "open_issues": 198,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16324,
+      "stars": 16327,
       "topics": [
         "api",
         "api-list",
