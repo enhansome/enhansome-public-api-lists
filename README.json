@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4261,
+                "stars": 4260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -265,8 +265,8 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-07T23:47:32Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-09T14:38:17Z",
+                "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
                 "stars": 250,
@@ -508,7 +508,7 @@
                 "open_issues": 0,
                 "owner": "alxiw",
                 "repo": "punkapi",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "api",
                   "async",
@@ -652,7 +652,7 @@
                 "open_issues": 24,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -701,8 +701,8 @@
                 "id": 39113829,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-02T14:29:18Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-09T02:33:32Z",
+                "open_issues": 10,
                 "owner": "IcaliaLabs",
                 "repo": "sepomex",
                 "stars": 110,
@@ -791,7 +791,7 @@
                 "open_issues": 12,
                 "owner": "theoldreader",
                 "repo": "api",
-                "stars": 204,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -868,7 +868,7 @@
                 "open_issues": 33,
                 "owner": "D3vd",
                 "repo": "Meme_Api",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "api",
                   "meme",
@@ -944,7 +944,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10918,
+                "stars": 10919,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +988,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13413,
+                "stars": 13420,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1282,7 +1282,7 @@
                 "open_issues": 9,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:02:00.912Z",
+    "last_updated": "2026-11-09T23:53:40.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1390,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 199,
+      "open_issues": 202,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16340,
+      "stars": 16346,
       "topics": [
         "api",
         "api-list",

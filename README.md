@@ -203,7 +203,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,261 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,260 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Bitcoin Halving](https://why21million.com/halving-api/)                         | Halving era, block reward, and schedule arithmetic for any Bitcoin block height                                                    |    No    |  Yes  |   Yes   |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
@@ -335,7 +335,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-11-07 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-11-09 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -519,7 +519,7 @@
 |                                             [Edamam](https://developer.edamam.com/)                                             | Recipe Search                                                          | `apiKey` |  Yes  | Unknown |
 |                                         [Open Brewery DB](https://www.openbrewerydb.org)                                        | Breweries, Cideries and Craft Beer Bottle Shops                        |    No    |  Yes  |   Yes   |
 |                                     [Open Food Facts](https://world.openfoodfacts.org/data)                                     | Food Products Database                                                 |    No    |  Yes  | Unknown |
-|                      [PunkAPI](https://github.com/alxiw/punkapi) ⭐ 23 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-05                     | BrewDog's DIY Dog beer catalogue as an API                             |    No    |  Yes  |   Yes   |
+|                      [PunkAPI](https://github.com/alxiw/punkapi) ⭐ 24 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-05                     | BrewDog's DIY Dog beer catalogue as an API                             |    No    |  Yes  |   Yes   |
 |                                                [RecipeAPI](https://recipeapi.io)                                                | Recipes, ingredients, nutrition and instructions                       | `apiKey` |  Yes  |   Yes   |
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
@@ -646,7 +646,7 @@
 |                                                      [MapAtlas](https://mapatlas.eu/)                                                      | Geocoding, routing, map tiles, directions, and route optimization APIs. EU-hosted                                  |     `apiKey`    |  Yes  |   Yes   |
 |                                                       [Mapbase](https://mapbase.dev/)                                                      | Location registry API for official locations, zones, hierarchy, and geometry                                       |     `apiKey`    |  Yes  |   Yes   |
 |                                                [Mapbox](https://www.mapbox.com/developers/)                                                | Create/customize beautiful digital maps                                                                            |     `apiKey`    |  Yes  | Unknown |
-|                          [Mexico](https://github.com/IcaliaLabs/sepomex) ⭐ 110 \| 🐛 4 \| 🌐 Ruby \| 📅 2026-11-02                         | Mexico RESTful zip codes API                                                                                       |        No       |  Yes  | Unknown |
+|                         [Mexico](https://github.com/IcaliaLabs/sepomex) ⭐ 110 \| 🐛 10 \| 🌐 Ruby \| 📅 2026-11-09                         | Mexico RESTful zip codes API                                                                                       |        No       |  Yes  | Unknown |
 |                                                    [OpenCage](https://opencagedata.com)                                                    | Forward and reverse geocoding using open data                                                                      |     `apiKey`    |  Yes  |   Yes   |
 |                                                 [OpenPLZ API](https://www.openplzapi.org/)                                                 | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API |        No       |  Yes  |   Yes   |
 |                                           [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)                                          | Navigation, geolocation and geographical data                                                                      |     `OAuth`     |   No  | Unknown |
@@ -816,7 +816,7 @@
 |                               [OkSurf](https://ok.surf/)                              | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
 |                            [Scoopkit](https://scoopkit.dev)                           | AI-industry news deduplicated into structured events, not articles                          | `apiKey` |  Yes  |   Yes   |
 |                 [The Guardian](http://open-platform.theguardian.com/)                 | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
-| [The Old Reader](https://github.com/theoldreader/api) ⭐ 204 \| 🐛 12 \| 📅 2016-10-04 | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
+| [The Old Reader](https://github.com/theoldreader/api) ⭐ 203 \| 🐛 12 \| 📅 2016-10-04 | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -883,7 +883,7 @@
 |                         [icanhazdadjoke](https://icanhazdadjoke.com/api)                         | The largest selection of dad jokes on the internet                                                                 |    No    |  Yes  | Unknown |
 |                                 [kanye.rest](https://kanye.rest)                                 | REST API for random Kanye West quotes                                                                              |    No    |  Yes  |   Yes   |
 |                  [Medium](https://github.com/Medium/medium-api-docs) ⚠️ Archived                 | Community of readers and writers offering unique perspectives on ideas                                             |  `OAuth` |  Yes  | Unknown |
-|         [Meme](https://github.com/D3vd/Meme_Api) ⭐ 889 \| 🐛 33 \| 🌐 Go \| 📅 2023-05-19        | JSON API for a random meme scraped from reddit                                                                     |    No    |  Yes  | Unknown |
+|         [Meme](https://github.com/D3vd/Meme_Api) ⭐ 890 \| 🐛 33 \| 🌐 Go \| 📅 2023-05-19        | JSON API for a random meme scraped from reddit                                                                     |    No    |  Yes  | Unknown |
 |                           [Memesio](https://memesio.com/developers/api)                          | Meme creation API with templates and hosted share links                                                            |    No    |  Yes  |    No   |
 | [NaMoMemes](https://github.com/theIYD/NaMoMemes) ⭐ 29 \| 🐛 11 \| 🌐 JavaScript \| 📅 2022-12-11 | Memes on Narendra Modi                                                                                             |    No    |  Yes  | Unknown |
 |                 [Perchance as a Service](https://perchance.synopsys0.workers.dev)                | Returns a random maybe as JSON or plain text                                                                       |    No    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,413 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,420 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1173,7 +1173,7 @@
 | :--------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                [An API of Ice And Fire](https://anapioficeandfire.com/)                                | Game Of Thrones API                                                                                                   |    No    |  Yes  | Unknown |
 |                                    [Bob's Burgers API](https://bobsburgersapi.com/)                                    | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show      |    No    |  Yes  |   Yes   |
-| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 468 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-10-31 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
+| [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes) ⭐ 469 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-10-31 | Some Breaking Bad quotes                                                                                              |    No    |  Yes  | Unknown |
 |                             [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                            | TV programme of Czech TV                                                                                              |    No    |   No  | Unknown |
 |               [Dune](https://github.com/ywalia01/dune-api) ⭐ 71 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-07-10              | Dune API                                                                                                              |    No    |  Yes  | Unknown |
 |                                          [Hyperserve](https://hyperserve.io/)                                          | Video backend API: accept any format your users upload, transcode to MP4, deliver via CDN                             | `apiKey` |  Yes  |   Yes   |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
