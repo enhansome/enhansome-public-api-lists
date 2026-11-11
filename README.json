@@ -220,7 +220,7 @@
                 "open_issues": 6,
                 "owner": "binance-exchange",
                 "repo": "binance-official-api-docs",
-                "stars": 4262,
+                "stars": 4261,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -372,7 +372,7 @@
                 "open_issues": 12,
                 "owner": "davemachado",
                 "repo": "public-api",
-                "stars": 1720,
+                "stars": 1721,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -443,44 +443,6 @@
                   "banking-data",
                   "ifsc",
                   "ifsc-api"
-                ]
-              },
-              "first_seen": "2026-08-29T00:14:17.234Z"
-            },
-            {
-              "node_type": "item",
-              "title": "KeepRule",
-              "description": "Investment principles and quotes from Buffett, Munger & more No Yes Yes",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free Investment Principles API - Curated wisdom from Buffett, Munger & more | keeprule.com",
-                "homepage": "https://keeprule.com",
-                "id": 1189329392,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2026-03-23T14:45:31Z",
-                "open_issues": 0,
-                "owner": "henu-wang",
-                "repo": "keeprule-api",
-                "stars": 4,
-                "topics": [
-                  "api",
-                  "buffett",
-                  "finance",
-                  "financial-literacy",
-                  "investing",
-                  "investment-principles",
-                  "investment-quotes",
-                  "json-api",
-                  "keeprule",
-                  "munger",
-                  "open-api",
-                  "portfolio",
-                  "rest-api",
-                  "stock-market",
-                  "value-investing",
-                  "warren-buffett"
                 ]
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -652,7 +614,7 @@
                 "open_issues": 24,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1036,
+                "stars": 1035,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -847,7 +809,7 @@
                 "open_issues": 10,
                 "owner": "Medium",
                 "repo": "medium-api-docs",
-                "stars": 2334,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -944,7 +906,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10921,
+                "stars": 10922,
                 "topics": [
                   "api",
                   "capsule",
@@ -988,7 +950,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13422,
+                "stars": 13428,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1282,7 +1244,7 @@
                 "open_issues": 9,
                 "owner": "shevabam",
                 "repo": "breaking-bad-quotes",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "api",
                   "breaking-bad",
@@ -1381,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:33:10.607Z",
+    "last_updated": "2026-11-11T22:21:42.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1390,10 +1352,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 207,
+      "open_issues": 211,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16353,
+      "stars": 16364,
       "topics": [
         "api",
         "api-list",
