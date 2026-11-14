@@ -85,7 +85,7 @@
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "api",
                   "iiif",
@@ -614,7 +614,7 @@
                 "open_issues": 24,
                 "owner": "15Dkatz",
                 "repo": "official_joke_api",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -642,7 +642,7 @@
                 "open_issues": 0,
                 "owner": "kamikazechaser",
                 "repo": "administrative-divisions-db",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "geocoding",
                   "geolocation",
@@ -778,10 +778,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T17:26:10Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1679,
+                "stars": 1681,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -830,7 +830,7 @@
                 "open_issues": 33,
                 "owner": "D3vd",
                 "repo": "Meme_Api",
-                "stars": 890,
+                "stars": 891,
                 "topics": [
                   "api",
                   "meme",
@@ -906,7 +906,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10922,
+                "stars": 10921,
                 "topics": [
                   "api",
                   "capsule",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:43:27.497Z",
+    "last_updated": "2026-11-14T20:13:47.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1352,10 +1352,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 218,
+      "open_issues": 223,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16382,
+      "stars": 16387,
       "topics": [
         "api",
         "api-list",

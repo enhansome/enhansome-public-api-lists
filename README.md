@@ -102,7 +102,7 @@
 |                                  [eeemoji](https://eeemoji.com/api)                                  | Emoji metadata: names, keywords, categories, shortcodes and skin tones        |    No    |  Yes  |   Yes   |
 |                      [Europeana](https://pro.europeana.eu/resources/apis/search)                     | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                                  [Freepik](https://freepik.com/api)                                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
-| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 428 \| 🐛 20 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 427 \| 🐛 20 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
 |                            [Iconfinder](https://developer.iconfinder.com)                            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |                      [Metropolitan Museum of Art](https://metmuseum.github.io/)                      | Art                                                                           |    No    |  Yes  | Unknown |
 |                       [Noun Project](http://api.thenounproject.com/index.html)                       | Icons                                                                         |  `OAuth` |   No  | Unknown |
@@ -601,7 +601,7 @@
 
 |                                                                     API                                                                    | Description                                                                                                        |       Auth      | HTTPS |   CORS  |
 | :----------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------ | :-------------: | :---: | :-----: |
-| [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) ⭐ 36 \| 🐛 0 \| 🌐 JavaScript \| 📅 2022-10-19 | Get all administrative divisions of a country                                                                      |        No       |  Yes  |   Yes   |
+| [administrative-divisons-db](https://github.com/kamikazechaser/administrative-divisions-db) ⭐ 35 \| 🐛 0 \| 🌐 JavaScript \| 📅 2022-10-19 | Get all administrative divisions of a country                                                                      |        No       |  Yes  |   Yes   |
 |                                            [adresse.data.gouv.fr](https://adresse.data.gouv.fr)                                            | Address database of France, geocoding and reverse                                                                  |        No       |  Yes  | Unknown |
 |                                     [Airtel IP](https://aether.epias.ltd/ip2country/1.1.1.1/?full=true)                                    | IP Geolocation API. Collecting data from multiple sources                                                          |        No       |  Yes  | Unknown |
 |                                                     [ApogeoAPI](https://apogeoapi.com)                                                     | Countries, states, cities, IP geolocation, and live exchange rates (161 currencies) in one API                     |     `apiKey`    |  Yes  |   Yes   |
@@ -841,7 +841,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,679 \| 🐛 44 \| 🌐 Python \| 📅 2026-11-02 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,681 \| 🐛 45 \| 🌐 Python \| 📅 2026-11-02 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -883,7 +883,7 @@
 |                         [icanhazdadjoke](https://icanhazdadjoke.com/api)                         | The largest selection of dad jokes on the internet                                                                 |    No    |  Yes  | Unknown |
 |                                 [kanye.rest](https://kanye.rest)                                 | REST API for random Kanye West quotes                                                                              |    No    |  Yes  |   Yes   |
 |                  [Medium](https://github.com/Medium/medium-api-docs) ⚠️ Archived                 | Community of readers and writers offering unique perspectives on ideas                                             |  `OAuth` |  Yes  | Unknown |
-|         [Meme](https://github.com/D3vd/Meme_Api) ⭐ 890 \| 🐛 33 \| 🌐 Go \| 📅 2023-05-19        | JSON API for a random meme scraped from reddit                                                                     |    No    |  Yes  | Unknown |
+|         [Meme](https://github.com/D3vd/Meme_Api) ⭐ 891 \| 🐛 33 \| 🌐 Go \| 📅 2023-05-19        | JSON API for a random meme scraped from reddit                                                                     |    No    |  Yes  | Unknown |
 |                           [Memesio](https://memesio.com/developers/api)                          | Meme creation API with templates and hosted share links                                                            |    No    |  Yes  |    No   |
 | [NaMoMemes](https://github.com/theIYD/NaMoMemes) ⭐ 29 \| 🐛 11 \| 🌐 JavaScript \| 📅 2022-12-11 | Memes on Narendra Modi                                                                                             |    No    |  Yes  | Unknown |
 |                 [Perchance as a Service](https://perchance.synopsys0.workers.dev)                | Returns a random maybe as JSON or plain text                                                                       |    No    |  Yes  |   Yes   |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
