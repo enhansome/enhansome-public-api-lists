@@ -203,7 +203,7 @@
 
 |                                                    API                                                    | Description                                                                                                                        |   Auth   | HTTPS |   CORS  |
 | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,259 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Binance](https://github.com/binance-exchange/binance-official-api-docs) ⭐ 4,260 \| 🐛 6 \| 📅 2024-06-19 | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Bitcoin Halving](https://why21million.com/halving-api/)                         | Halving era, block reward, and schedule arithmetic for any Bitcoin block height                                                    |    No    |  Yes  |   Yes   |
 |                                  [Bithumb](https://apidocs.bithumb.com/)                                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |                              [Bitmex](https://www.bitmex.com/app/apiOverview)                             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
@@ -335,7 +335,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-11-09 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-11-15 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -355,7 +355,7 @@
 |                                [Postman](https://docs.api.getpostman.com/)                                | Tool for testing APIs                                                                                      |     `apiKey`    |  Yes  | Unknown |
 |                               [Prismix](https://prismix.dev/api/v1/statuses)                              | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required |        No       |  Yes  |   Yes   |
 |                                    [ProxyCrawl](https://proxycrawl.com)                                   | Scraping and crawling anticaptcha service                                                                  |     `apiKey`    |  Yes  | Unknown |
-|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,721 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
+|    [Public APIs](https://github.com/davemachado/public-api) ⭐ 1,722 \| 🐛 12 \| 🌐 Go \| 📅 2022-12-08    | A collective list of free JSON APIs for use in web development                                             |        No       |  Yes  | Unknown |
 |                                  [Pusher Beams](https://pusher.com/beams)                                 | Push notifications for Android & iOS                                                                       |     `apiKey`    |  Yes  | Unknown |
 |                                 [Pythonium](https://pythonium.net/linter)                                 | Validate Python code                                                                                       |        No       |  Yes  |   Yes   |
 |                              [QR Code](https://fungenerators.com/api/qrcode/)                             | Create new QR Code or decode existing one                                                                  |     `apiKey`    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,434 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,437 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
