@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -265,7 +265,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-16T11:49:38Z",
+                "last_commit": "2026-11-18T15:08:55Z",
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -467,7 +467,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T23:20:49Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "alxiw",
                 "repo": "punkapi",
                 "stars": 24,
@@ -729,7 +729,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-02-10T06:30:03Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "feedbin",
                 "repo": "feedbin-api",
                 "stars": 409,
@@ -906,7 +906,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10921,
+                "stars": 10922,
                 "topics": [
                   "api",
                   "capsule",
@@ -950,7 +950,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13442,
+                "stars": 13445,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:14:05.472Z",
+    "last_updated": "2026-11-18T22:45:31.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1352,10 +1352,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 238,
+      "open_issues": 242,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16413,
+      "stars": 16422,
       "topics": [
         "api",
         "api-list",

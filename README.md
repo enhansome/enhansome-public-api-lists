@@ -71,7 +71,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,346 \| 🐛 67 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,347 \| 🐛 67 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -335,7 +335,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-11-16 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-11-18 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -519,7 +519,7 @@
 |                                             [Edamam](https://developer.edamam.com/)                                             | Recipe Search                                                          | `apiKey` |  Yes  | Unknown |
 |                                         [Open Brewery DB](https://www.openbrewerydb.org)                                        | Breweries, Cideries and Craft Beer Bottle Shops                        |    No    |  Yes  |   Yes   |
 |                                     [Open Food Facts](https://world.openfoodfacts.org/data)                                     | Food Products Database                                                 |    No    |  Yes  | Unknown |
-|                      [PunkAPI](https://github.com/alxiw/punkapi) ⭐ 24 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-05                     | BrewDog's DIY Dog beer catalogue as an API                             |    No    |  Yes  |   Yes   |
+|                      [PunkAPI](https://github.com/alxiw/punkapi) ⭐ 24 \| 🐛 1 \| 🌐 Python \| 📅 2026-11-05                     | BrewDog's DIY Dog beer catalogue as an API                             |    No    |  Yes  |   Yes   |
 |                                                [RecipeAPI](https://recipeapi.io)                                                | Recipes, ingredients, nutrition and instructions                       | `apiKey` |  Yes  |   Yes   |
 |                                      [Seed Oil Tracker](https://seedoiltracker.com/ai-tool)                                     | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains |    No    |  Yes  |   Yes   |
 |                                         [Spoonacular](https://spoonacular.com/food-api)                                         | Food and Recipes                                                       | `apiKey` |  Yes  | Unknown |
@@ -809,7 +809,7 @@
 |                     [Associated Press](https://developer.ap.org/)                     | Search for news and metadata from Associated Press                                          | `apiKey` |  Yes  | Unknown |
 |          [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)          | Provides access to millions of pages of historic US newspapers from the Library of Congress |    No    |   No  | Unknown |
 |                       [Currents](https://currentsapi.services/)                       | Latest news published in various news sources, blogs and forums                             | `apiKey` |  Yes  |   Yes   |
-|   [Feedbin](https://github.com/feedbin/feedbin-api) ⭐ 409 \| 🐛 20 \| 📅 2026-02-10   | RSS reader                                                                                  |  `OAuth` |  Yes  | Unknown |
+|   [Feedbin](https://github.com/feedbin/feedbin-api) ⭐ 409 \| 🐛 21 \| 📅 2026-02-10   | RSS reader                                                                                  |  `OAuth` |  Yes  | Unknown |
 |                            [Finlight](https://finlight.me)                            | Realtime financial news with sentiment and article content                                  | `apiKey` |  Yes  |   Yes   |
 |                    [New York Times](https://developer.nytimes.com/)                   | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
 |                              [News](https://newsapi.org/)                             | Headlines currently published on a range of news sources and blogs                          | `apiKey` |  Yes  | Unknown |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,442 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,445 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
