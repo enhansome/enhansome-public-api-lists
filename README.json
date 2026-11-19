@@ -49,7 +49,7 @@
                 "open_issues": 67,
                 "owner": "AniList",
                 "repo": "docs",
-                "stars": 1347,
+                "stars": 1346,
                 "topics": [
                   "anichart",
                   "anilist",
@@ -81,7 +81,7 @@
                 "id": 28979124,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-03T14:08:04Z",
+                "last_commit": "2026-11-19T02:34:38Z",
                 "open_issues": 20,
                 "owner": "harvardartmuseums",
                 "repo": "api-docs",
@@ -265,7 +265,7 @@
                 "id": 97043763,
                 "language": "JavaScript",
                 "license": "OSL-3.0",
-                "last_commit": "2026-11-18T15:08:55Z",
+                "last_commit": "2026-11-19T13:26:12Z",
                 "open_issues": 7,
                 "owner": "jsdelivr",
                 "repo": "data.jsdelivr.com",
@@ -588,7 +588,7 @@
                 "open_issues": 60,
                 "owner": "Bungie-net",
                 "repo": "api",
-                "stars": 1309,
+                "stars": 1308,
                 "topics": [
                   "bnet",
                   "bungie",
@@ -732,7 +732,7 @@
                 "open_issues": 21,
                 "owner": "feedbin",
                 "repo": "feedbin-api",
-                "stars": 409,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -781,7 +781,7 @@
                 "open_issues": 45,
                 "owner": "Hipo",
                 "repo": "university-domains-list",
-                "stars": 1681,
+                "stars": 1682,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -906,7 +906,7 @@
                 "open_issues": 79,
                 "owner": "r-spacex",
                 "repo": "SpaceX-API",
-                "stars": 10922,
+                "stars": 10920,
                 "topics": [
                   "api",
                   "capsule",
@@ -950,7 +950,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13445,
+                "stars": 13446,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:45:31.069Z",
+    "last_updated": "2026-11-19T22:49:14.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1352,10 +1352,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 242,
+      "open_issues": 246,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16422,
+      "stars": 16429,
       "topics": [
         "api",
         "api-list",

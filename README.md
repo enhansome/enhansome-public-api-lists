@@ -71,7 +71,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,347 \| 🐛 67 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,346 \| 🐛 67 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -102,7 +102,7 @@
 |                                  [eeemoji](https://eeemoji.com/api)                                  | Emoji metadata: names, keywords, categories, shortcodes and skin tones        |    No    |  Yes  |   Yes   |
 |                      [Europeana](https://pro.europeana.eu/resources/apis/search)                     | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                                  [Freepik](https://freepik.com/api)                                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
-| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 426 \| 🐛 20 \| 📅 2026-08-03 | Art                                                                           | `apiKey` |   No  | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) ⭐ 426 \| 🐛 20 \| 📅 2026-11-19 | Art                                                                           | `apiKey` |   No  | Unknown |
 |                            [Iconfinder](https://developer.iconfinder.com)                            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |                      [Metropolitan Museum of Art](https://metmuseum.github.io/)                      | Art                                                                           |    No    |  Yes  | Unknown |
 |                       [Noun Project](http://api.thenounproject.com/index.html)                       | Icons                                                                         |  `OAuth` |   No  | Unknown |
@@ -335,7 +335,7 @@
 |                                   [IPinfo](https://ipinfo.io/developers)                                  | Another simple IP Address API                                                                              |        No       |  Yes  | Unknown |
 |                                [IPLocate.io](https://www.iplocate.io/docs)                                | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API                      |        No       |  Yes  |   Yes   |
 |                    [JMESPath Free API](https://noteapiconnector.com/jmespath-free-api)                    | Run JMESPath queries on JSON data for filtering, transforming, and extracting results                      |        No       |  Yes  |   Yes   |
-| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-11-18 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
+| [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com) ⭐ 250 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-11-19 | Package info and download stats on jsDelivr CDN                                                            |        No       |  Yes  |   Yes   |
 |                                  [JSON 2 JSONP](https://json2jsonp.com/)                                  | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript        |        No       |  Yes  | Unknown |
 |                                      [JSONbin.io](https://jsonbin.io)                                     | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                        |     `apiKey`    |  Yes  |   Yes   |
 |                               [Kiprio IP Lookup](https://kiprio.com/ip-api)                               | IP geolocation and reputation with proxy, VPN, and hosting detection                                       |     `apiKey`    |  Yes  |   Yes   |
@@ -554,7 +554,7 @@
 |                                       [crob.at](https://crob.at/api)                                       | Pokémon team sharing and type chart data                                                                                                                     |        No       |  Yes  |   Yes   |
 |                             [Cross Universe](https://crossuniverse.net/apiDocs)                            | Cross Universe Card Data                                                                                                                                     |        No       |  Yes  |   Yes   |
 |                                 [Deck of Cards](http://deckofcardsapi.com/)                                | Deck of Cards                                                                                                                                                |        No       |   No  | Unknown |
-|           [Destiny The Game](https://github.com/Bungie-net/api) ⭐ 1,309 \| 🐛 60 \| 📅 2026-01-22          | Bungie Platform API                                                                                                                                          |     `apiKey`    |  Yes  | Unknown |
+|           [Destiny The Game](https://github.com/Bungie-net/api) ⭐ 1,308 \| 🐛 60 \| 📅 2026-01-22          | Bungie Platform API                                                                                                                                          |     `apiKey`    |  Yes  | Unknown |
 |                                    [Dota 2](https://docs.opendota.com/)                                    | Provides information about Player stats , Match stats, Rankings for Dota 2                                                                                   |        No       |  Yes  | Unknown |
 |                               [Dungeons and Dragons](http://www.dnd5eapi.co/)                              | Reference for 5th edition spells, classes, monsters, and more                                                                                                |        No       |   No  |    No   |
 |                                 [Eight Ball API](https://eightballapi.com/)                                | Fortune-telling API with random, sentiment-biased, and multi-language responses                                                                              |        No       |  Yes  |   Yes   |
@@ -809,7 +809,7 @@
 |                     [Associated Press](https://developer.ap.org/)                     | Search for news and metadata from Associated Press                                          | `apiKey` |  Yes  | Unknown |
 |          [Chronicling America](http://chroniclingamerica.loc.gov/about/api/)          | Provides access to millions of pages of historic US newspapers from the Library of Congress |    No    |   No  | Unknown |
 |                       [Currents](https://currentsapi.services/)                       | Latest news published in various news sources, blogs and forums                             | `apiKey` |  Yes  |   Yes   |
-|   [Feedbin](https://github.com/feedbin/feedbin-api) ⭐ 409 \| 🐛 21 \| 📅 2026-02-10   | RSS reader                                                                                  |  `OAuth` |  Yes  | Unknown |
+|   [Feedbin](https://github.com/feedbin/feedbin-api) ⭐ 410 \| 🐛 21 \| 📅 2026-02-10   | RSS reader                                                                                  |  `OAuth` |  Yes  | Unknown |
 |                            [Finlight](https://finlight.me)                            | Realtime financial news with sentiment and article content                                  | `apiKey` |  Yes  |   Yes   |
 |                    [New York Times](https://developer.nytimes.com/)                   | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
 |                              [News](https://newsapi.org/)                             | Headlines currently published on a range of news sources and blogs                          | `apiKey` |  Yes  | Unknown |
@@ -841,7 +841,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,681 \| 🐛 45 \| 🌐 Python \| 📅 2026-11-02 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,682 \| 🐛 45 \| 🌐 Python \| 📅 2026-11-02 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,445 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,446 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
@@ -1221,4 +1221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
