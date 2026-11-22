@@ -462,7 +462,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "REST API for BrewDog's DIY Dog beer catalog",
-                "homepage": null,
+                "homepage": "https://punkapi.dev",
                 "id": 900943508,
                 "language": "Python",
                 "license": "MIT",
@@ -950,7 +950,7 @@
                 "open_issues": 5,
                 "owner": "HackerNews",
                 "repo": "API",
-                "stars": 13451,
+                "stars": 13454,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:14:17.234Z"
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:17:54.155Z",
+    "last_updated": "2026-11-22T21:23:44.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
@@ -1352,10 +1352,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-14T07:19:57Z",
-      "open_issues": 252,
+      "open_issues": 257,
       "owner": "public-api-lists",
       "repo": "public-api-lists",
-      "stars": 16443,
+      "stars": 16454,
       "topics": [
         "api",
         "api-list",
