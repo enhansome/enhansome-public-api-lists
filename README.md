@@ -71,7 +71,7 @@
 
 |                                                     API                                                     | Description                                       |   Auth   | HTTPS |   CORS  |
 | :---------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,350 \| 🐛 67 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
+| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,351 \| 🐛 67 \| 🌐 TypeScript \| 📅 2026-08-18 | Anime discovery & tracking                        |  `OAuth` |  Yes  | Unknown |
 |                  [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)                  | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                            [AOT quotes](https://attackontitanquotes.vercel.app/)                            | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                                          [Jikan](https://jikan.moe)                                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -841,7 +841,7 @@
 |                           [Recreation Information Database](https://ridb.recreation.gov/)                           | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)                | `apiKey` |  Yes  | Unknown |
 |                                [Rope Drop News](https://ropedropnews.com/developers)                                | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices           |    No    |  Yes  |    No   |
 |                                         [Scoop.it](http://www.scoop.it/dev)                                         | Content Curation Service                                                                                       | `apiKey` |   No  | Unknown |
-| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,685 \| 🐛 43 \| 🌐 Python \| 📅 2026-11-23 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
+| [Universities List](https://github.com/Hipo/university-domains-list) ⭐ 1,686 \| 🐛 44 \| 🌐 Python \| 📅 2026-11-23 | University names, countries and domains                                                                        |    No    |  Yes  | Unknown |
 |                                      [University of Oslo](https://data.uio.no/)                                     | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)             |    No    |  Yes  | Unknown |
 |                                     [UPC database](https://upcdatabase.org/api)                                     | More than 1.5 million barcode numbers from all around the world                                                | `apiKey` |  Yes  | Unknown |
 |                       [Website & Web-App Cost Data](https://projectcostestimator.com/api-docs)                      | Web-project cost benchmarks by platform across 6 markets (build, hosting, 3-year TCO, hourly rates), CC BY 4.0 |    No    |  Yes  |   Yes   |
@@ -989,7 +989,7 @@
 |                    [Facebook](https://developers.facebook.com/)                   | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   |  `OAuth` |  Yes  | Unknown |
 |                  [Foursquare](https://developer.foursquare.com/)                  | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) |  `OAuth` |  Yes  | Unknown |
 |            [Full Contact](https://www.fullcontact.com/developer/docs/)            | Get Social Media profiles and contact Information                                                 |  `OAuth` |  Yes  | Unknown |
-| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,463 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HackerNews](https://github.com/HackerNews/API) ⭐ 13,462 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |                 [Instagram](https://www.instagram.com/developer/)                 | Instagram Login, Share on Instagram, Social Plugins and more                                      |  `OAuth` |  Yes  | Unknown |
 |                       [MySocialApp](https://mysocialapp.io)                       | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 |       [Open Collective](https://docs.opencollective.com/help/developers/api)      | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
